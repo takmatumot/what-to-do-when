@@ -7,6 +7,7 @@
 * [チートシート](https://github.com/takuan-osho/rst-cheatsheet/blob/japanese/rst-cheatsheet.rst)
 * [リンクの貼り方](http://sphinx-users.jp/reverse-dict/writing/link.html)
 * [study sphinx](http://planset-study-sphinx.readthedocs.io/ja/latest/index.html)
+* [restructuredText の表のセルの中で改行する](http://saponote.hatenablog.com/entry/2017/11/24/214309)
 
 ## Gitセットアップ
 
@@ -40,11 +41,13 @@
  * [空のディレクトリを維持するための、 .gitkeep と .gitignore の使い分け](https://qiita.com/ndxbn/items/f124d2b183b60cb074e2)
  * [複数Githubアカウントでssh接続を使い分ける手順](https://qiita.com/yampy/items/24638156abd383e08758)
  * [Gitプロトコルを受け入れるためのファイアーウォールの設定(Linux)](https://www.ipentec.com/document/document.aspx?page=linux-firewall-accept-git-protocol)
+ * [Git/gitlabで共同作業をするための最小限の知識](https://doss.eidos.ic.i.u-tokyo.ac.jp/html/git.html)
 
 ## RAML
 
 * [僕が考えた最強のAPIドキュメント生成](http://gin0606.hatenablog.com/entry/2016/02/16/144910)
 * [Swaggerのファイル仕様が不満だったのでRAMLを触って比較してみる](http://mao-instantlife.hatenablog.com/entry/2017/07/01/Swagger%E3%81%AE%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E4%BB%95%E6%A7%98%E3%81%8C%E4%B8%8D%E6%BA%80%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%A7RAML%E3%82%92%E8%A7%A6%E3%81%A3%E3%81%A6%E6%AF%94)
+* [Include external resources(RAML file) in one uber file](https://forum.raml.org/t/include-external-resources-raml-file-in-one-uber-file/212)
 
 ## Django
 
