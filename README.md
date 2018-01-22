@@ -41,6 +41,10 @@
 
 * [django-rest-frameworkチュートリアル和訳](http://sandmark.hateblo.jp/entry/2017/09/30/160945)
 
+## 画面操作
+
+* [画面操作などをGIFで録画できる「ScreenToGif」を利用して直感的に伝える](https://nelog.jp/screen-to-gif)
+ 
 ## VI
 
 * [viコマンドについて詳しくまとめました](https://eng-entrance.com/linux-command-vi)
