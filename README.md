@@ -18,6 +18,9 @@
      * Use MinTTY (the default terminal of MSYS2)を選択する
   * Turtoise Gitインストール時の注意事項
    *  SSHクライアントは TortoiseGitPlink... を選択する
+ * Linux での　git tools
+   * [tig](https://github.com/jonas/tig) 
+   * [linuxでtigをコンパイルする](https://qiita.com/tdrk/items/06b21bedff3244e21aae)
 * 秘密鍵・公開鍵
   * [Bitbucketのリモートリポジトリを使う](http://moondoldo.com/DoldoWorkz/?Git%2FBitbucket%E3%81%AE%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA%E3%82%92%E4%BD%BF%E3%81%86)
    * Git Bashで OpenSSHの秘密鍵・公開鍵を作成する
