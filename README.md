@@ -45,6 +45,8 @@
  * [GitLab への Git repository の移動方法についての備忘録](https://www.labohyt.net/blog/server/post-435/)
  * [GitLab運用方法と設定手順について](https://qiita.com/mikoski01/items/7a7795a8a1e98d9ba6d9)
  * [`git push -u` オプションの意味](https://qiita.com/ironsand/items/6c301fef730d53f35bc3)
+ * [git push originで複数箇所にプッシュする](https://qiita.com/sasaplus1/items/ed518bb14ef8e3da06bf)
+ * [githubでリポジトリを削除する方法](https://qiita.com/PlanetMeron/items/4d164eff7bff2243cf06)
 
 ## RAML
 
