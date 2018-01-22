@@ -2,6 +2,12 @@
 
 [toc]
 
+## reStructured text
+
+* [チートシート](https://github.com/takuan-osho/rst-cheatsheet/blob/japanese/rst-cheatsheet.rst)
+* [リンクの貼り方](http://sphinx-users.jp/reverse-dict/writing/link.html)
+* [study sphinx](http://planset-study-sphinx.readthedocs.io/ja/latest/index.html)
+
 ## Gitセットアップ
 
 * [TortoiseGitのセットアップ](https://qiita.com/SkyLaptor/items/6347f38c8c010f4d5bd2)
