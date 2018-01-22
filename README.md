@@ -34,7 +34,6 @@
    * OpenSSH の秘密鍵からPutty形式の秘密鍵を作成する
    * Gitクライアント側で公開鍵を設定する
    * TortoiseGitのPuttyで秘密鍵を設定する
-   * 
 
 * その他
  * [わかりやすい README 駆動開発](https://qiita.com/b4b4r07/items/c80d53db9a0fd59086ec)
@@ -47,6 +46,10 @@
  * [`git push -u` オプションの意味](https://qiita.com/ironsand/items/6c301fef730d53f35bc3)
  * [git push originで複数箇所にプッシュする](https://qiita.com/sasaplus1/items/ed518bb14ef8e3da06bf)
  * [githubでリポジトリを削除する方法](https://qiita.com/PlanetMeron/items/4d164eff7bff2243cf06)
+ * [GIT超絶まとめ](https://qiita.com/masashi127/items/2e103c3fba9d1b058961)
+ * [図で分かるgit-mergeの--ff, --no-ff, --squashの違い](http://d.hatena.ne.jp/sinsoku/20111025/1319497900)
+ * [初めてGitHubリポジトリにpushしたらrejectedエラーになったときの対応メモ](https://qiita.com/takanatsu/items/fc89de9bd11148da1438)
+
 
 ## RAML
 
