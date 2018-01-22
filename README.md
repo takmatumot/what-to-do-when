@@ -27,7 +27,8 @@
  
 
 
+## VI
 
-
+* [viコマンドについて詳しくまとめました](https://eng-entrance.com/linux-command-vi)
 
 
