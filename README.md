@@ -27,10 +27,13 @@
    * OpenSSH の秘密鍵からPutty形式の秘密鍵を作成する
    * Gitクライアント側で公開鍵を設定する
    * TortoiseGitのPuttyで秘密鍵を設定する
+   * 
 
 * その他
  * [わかりやすい README 駆動開発](https://qiita.com/b4b4r07/items/c80d53db9a0fd59086ec)
  * [空のディレクトリを維持するための、 .gitkeep と .gitignore の使い分け](https://qiita.com/ndxbn/items/f124d2b183b60cb074e2)
+ * [複数Githubアカウントでssh接続を使い分ける手順](https://qiita.com/yampy/items/24638156abd383e08758)
+ * [Gitプロトコルを受け入れるためのファイアーウォールの設定(Linux)](https://www.ipentec.com/document/document.aspx?page=linux-firewall-accept-git-protocol)
 
 ## RAML
 
