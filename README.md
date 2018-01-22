@@ -27,11 +27,36 @@
    * OpenSSH の秘密鍵からPutty形式の秘密鍵を作成する
    * Gitクライアント側で公開鍵を設定する
    * TortoiseGitのPuttyで秘密鍵を設定する
- 
 
+* その他
+ * [わかりやすい README 駆動開発](https://qiita.com/b4b4r07/items/c80d53db9a0fd59086ec)
+
+
+## RAML
+
+* [僕が考えた最強のAPIドキュメント生成](http://gin0606.hatenablog.com/entry/2016/02/16/144910)
+* [Swaggerのファイル仕様が不満だったのでRAMLを触って比較してみる](http://mao-instantlife.hatenablog.com/entry/2017/07/01/Swagger%E3%81%AE%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E4%BB%95%E6%A7%98%E3%81%8C%E4%B8%8D%E6%BA%80%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%A7RAML%E3%82%92%E8%A7%A6%E3%81%A3%E3%81%A6%E6%AF%94)
+
+## Django
+
+* [django-rest-frameworkチュートリアル和訳](http://sandmark.hateblo.jp/entry/2017/09/30/160945)
 
 ## VI
 
 * [viコマンドについて詳しくまとめました](https://eng-entrance.com/linux-command-vi)
 
+
+## コード評価
+
+* [Code Climate]()
+* [Code Climate CLI](https://github.com/codeclimate/codeclimate/blob/master/README.md)
+
+## ワークフロー管理
+
+* [ワークフローエンジンDigdagのまとめ](https://qiita.com/hiroysato/items/d0fe5e2d88c267413a82)
+* [「Digdag」を使って依存関係のあるタスクをコードベースで管理する](http://tadaken3.hatenablog.jp/entry/try-digdag)
+
+## タスク管理
+
+* [Trello](https://ferret-plus.com/7616)
 
