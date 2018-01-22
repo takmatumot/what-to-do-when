@@ -9,7 +9,7 @@
 * [study sphinx](http://planset-study-sphinx.readthedocs.io/ja/latest/index.html)
 * [restructuredText の表のセルの中で改行する](http://saponote.hatenablog.com/entry/2017/11/24/214309)
 
-## Gitセットアップ
+## Git
 
 * [TortoiseGitのセットアップ](https://qiita.com/SkyLaptor/items/6347f38c8c010f4d5bd2)
   * Gitインストール時の注意事項
@@ -42,6 +42,9 @@
  * [複数Githubアカウントでssh接続を使い分ける手順](https://qiita.com/yampy/items/24638156abd383e08758)
  * [Gitプロトコルを受け入れるためのファイアーウォールの設定(Linux)](https://www.ipentec.com/document/document.aspx?page=linux-firewall-accept-git-protocol)
  * [Git/gitlabで共同作業をするための最小限の知識](https://doss.eidos.ic.i.u-tokyo.ac.jp/html/git.html)
+ * [GitLab への Git repository の移動方法についての備忘録](https://www.labohyt.net/blog/server/post-435/)
+ * [GitLab運用方法と設定手順について](https://qiita.com/mikoski01/items/7a7795a8a1e98d9ba6d9)
+ * [`git push -u` オプションの意味](https://qiita.com/ironsand/items/6c301fef730d53f35bc3)
 
 ## RAML
 
