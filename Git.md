@@ -1,6 +1,10 @@
 
-## Git
+# Git
 
+## 運用方法
+
+
+## Link
 * [TortoiseGitのセットアップ](https://qiita.com/SkyLaptor/items/6347f38c8c010f4d5bd2)
   * Gitインストール時の注意事項
     * Choosing the default editor used By Git部
