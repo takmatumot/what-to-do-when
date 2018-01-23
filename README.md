@@ -1,10 +1,11 @@
 # What to do When
 
-Trying to gather useful information at least for the author
+Trying to gather useful information and find better way for the management at least for the author.
 
 ## Link
 
 * [Git](./Git.md)
+* [Python](./Python.md)
 * [Document](./Document.md)
 
 ## タスク管理

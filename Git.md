@@ -15,7 +15,7 @@
   * git rebaseは使わない
     * Ref. : [なぜ git rebase をやめるべきか](https://frasco.io/why-you-should-stop-using-git-rebase-535fa30d7e25)
   * Git更新手順
-    * GitLab/GitHubから git cloneでレポジトリを取得
+    * GitLab/GitHubで git cloneでレポジトリを取得
     * 別branchを作成し、ローカル環境で更新
     * git pull --rebase で mergeした後、GitLab/GitHubに pushし、そのあと、プルリクエストを行う
     * Ref. :
