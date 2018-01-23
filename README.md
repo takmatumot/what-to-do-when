@@ -9,6 +9,22 @@
 * [study sphinx](http://planset-study-sphinx.readthedocs.io/ja/latest/index.html)
 * [restructuredText の表のセルの中で改行する](http://saponote.hatenablog.com/entry/2017/11/24/214309)
 
+## Markdown
+
+* [Markdown記法 チートシート](https://qiita.com/Qiita/items/c686397e4a0f4f11683d)
+
+## Grav
+
+* [Grav](https://getgrav.org/)
+* [Learn Grav](https://learn.getgrav.org/)
+* [Grav plugins](https://getgrav.org/downloads/plugins)
+  * bin/gpm install xxx
+   * xxx = git-sync, simplesearch, highlight, featherlight, toc, external_links, feed
+   * xxx = learn2-git-sync
+* [Grav Github](https://github.com/getgrav/grav)
+* [GRAV ページを作ってみた （インストール編)](http://tangocho.net/blog/201607-grav)
+* [真夜中の歌声](http://www.mayonakanouta.com/grav)
+
 ## Git
 
 * [TortoiseGitのセットアップ](https://qiita.com/SkyLaptor/items/6347f38c8c010f4d5bd2)
@@ -50,6 +66,7 @@
  * [図で分かるgit-mergeの--ff, --no-ff, --squashの違い](http://d.hatena.ne.jp/sinsoku/20111025/1319497900)
  * [初めてGitHubリポジトリにpushしたらrejectedエラーになったときの対応メモ](https://qiita.com/takanatsu/items/fc89de9bd11148da1438)
  * [git fetchの理解からgit mergeとpullの役割](https://qiita.com/osamu1203/items/cb94ef9da02e1ec3e921)
+ * [忘れやすい人のための git diff チートシート](https://qiita.com/shibukk/items/8c9362a5bd399b9c56be)
 
 
 ## RAML
