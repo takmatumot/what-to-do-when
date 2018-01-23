@@ -6,7 +6,7 @@
 * 簡単なメモなどは [markdown](http://www.markdown.jp/what-is-markdown/)を利用
 * WebによるmarkdownによるCMS管理は[Grav](https://getgrav.org/)を利用
 * しっかりしたマニュアル生成は [reStructured text](http://docs.sphinx-users.jp/rest.html)を利用
- * reStructured textによるドキュメント生成には[SPhinx](http://sphinx-users.jp/)を用いる
+   * reStructured textによるドキュメント生成には[SPhinx](http://sphinx-users.jp/)を用いる
 
 ## reStructured text
 
