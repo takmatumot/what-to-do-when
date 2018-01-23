@@ -1,10 +1,31 @@
 
 # Git
 
-## 運用方法
+## 運用
 
+* Gitホスティングサービス
+  * [GitLab](https://about.gitlab.com/) 
+     * オンプレミスでも利用可能
+      * Ref. : [GitHubの代替えGitLabのインストール方法と紹介（Ubuntu16.04版)]()
+  * [GitHub](https://github.com/)
+    * プライベートレポジトリ作成は有料オプション
+* Gitツール
+ * Windowsでは[TortoiseGit](https://tortoisegit.org/)を利用
+* Gitコマンド
+ * git rebaseは使わない
+   * Ref. : [なぜ git rebase をやめるべきか](https://frasco.io/why-you-should-stop-using-git-rebase-535fa30d7e25)
+ * Git更新手順
+   * GitLab/GitHubから git cloneでレポジトリを取得
+   * 別branchを作成し、ローカル環境で更新
+   * git pull --rebase で mergeした後、GitLab/GitHubに pushし、そのあと、プルリクエストを行う
+   * Ref. :
+     * [git pull と git pull –rebase の違いって？図を交えて説明します！](http://kray.jp/blog/git-pull-rebase/)
+
+     * [何故 git rebase は駄目で git pull –rebase はいいのか](https://www.lancard.com/blog/2016/11/07/git-rebase-and-pull-rebase/)
+     * [GitHubを使うなら最低限知っておきたい、プルリクエストの送り方とレビュー、マージの基本](http://www.atmarkit.co.jp/ait/articles/1702/27/news022.html)
 
 ## Link
+
 * [TortoiseGitのセットアップ](https://qiita.com/SkyLaptor/items/6347f38c8c010f4d5bd2)
   * Gitインストール時の注意事項
     * Choosing the default editor used By Git部
@@ -19,7 +40,7 @@
      * Use MinTTY (the default terminal of MSYS2)を選択する
   * Turtoise Gitインストール時の注意事項
    *  SSHクライアントは TortoiseGitPlink... を選択する
- * Linux での　git tools
+* Linux での　git tools
    * [tig](https://github.com/jonas/tig) 
    * [linuxでtigをコンパイルする](https://qiita.com/tdrk/items/06b21bedff3244e21aae)
 * 秘密鍵・公開鍵
@@ -45,6 +66,5 @@
  * [初めてGitHubリポジトリにpushしたらrejectedエラーになったときの対応メモ](https://qiita.com/takanatsu/items/fc89de9bd11148da1438)
  * [git fetchの理解からgit mergeとpullの役割](https://qiita.com/osamu1203/items/cb94ef9da02e1ec3e921)
  * [忘れやすい人のための git diff チートシート](https://qiita.com/shibukk/items/8c9362a5bd399b9c56be)
- * [git pull と git pull –rebase の違いって？図を交えて説明します！](http://kray.jp/blog/git-pull-rebase/)
- * [何故 git rebase は駄目で git pull –rebase はいいのか](https://www.lancard.com/blog/2016/11/07/git-rebase-and-pull-rebase/)
- * [GitHubを使うなら最低限知っておきたい、プルリクエストの送り方とレビュー、マージの基本](http://www.atmarkit.co.jp/ait/articles/1702/27/news022.html)
+ 
+ * [GitHub の Markdown に TOC (目次) を付けるブックマークレット (vanilla JS 編)](https://qiita.com/hokkun_dayo/items/bd3ec64fba293f4aca08)
