@@ -10,19 +10,19 @@
   * [GitHub](https://github.com/)
     * プライベートレポジトリ作成は有料オプション
 * Gitツール
- * Windowsでは[TortoiseGit](https://tortoisegit.org/)を利用
+  * Windowsでは[TortoiseGit](https://tortoisegit.org/)を利用
 * Gitコマンド
- * git rebaseは使わない
-   * Ref. : [なぜ git rebase をやめるべきか](https://frasco.io/why-you-should-stop-using-git-rebase-535fa30d7e25)
- * Git更新手順
-   * GitLab/GitHubから git cloneでレポジトリを取得
-   * 別branchを作成し、ローカル環境で更新
-   * git pull --rebase で mergeした後、GitLab/GitHubに pushし、そのあと、プルリクエストを行う
-   * Ref. :
-     * [git pull と git pull –rebase の違いって？図を交えて説明します！](http://kray.jp/blog/git-pull-rebase/)
+  * git rebaseは使わない
+    * Ref. : [なぜ git rebase をやめるべきか](https://frasco.io/why-you-should-stop-using-git-rebase-535fa30d7e25)
+  * Git更新手順
+    * GitLab/GitHubから git cloneでレポジトリを取得
+    * 別branchを作成し、ローカル環境で更新
+    * git pull --rebase で mergeした後、GitLab/GitHubに pushし、そのあと、プルリクエストを行う
+    * Ref. :
+      * [git pull と git pull –rebase の違いって？図を交えて説明します！](http://kray.jp/blog/git-pull-rebase/)
 
-     * [何故 git rebase は駄目で git pull –rebase はいいのか](https://www.lancard.com/blog/2016/11/07/git-rebase-and-pull-rebase/)
-     * [GitHubを使うなら最低限知っておきたい、プルリクエストの送り方とレビュー、マージの基本](http://www.atmarkit.co.jp/ait/articles/1702/27/news022.html)
+      * [何故 git rebase は駄目で git pull –rebase はいいのか](https://www.lancard.com/blog/2016/11/07/git-rebase-and-pull-rebase/)
+      * [GitHubを使うなら最低限知っておきたい、プルリクエストの送り方とレビュー、マージの基本](http://www.atmarkit.co.jp/ait/articles/1702/27/news022.html)
 
 ## Link
 
