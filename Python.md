@@ -4,8 +4,8 @@
 ## 運用
 
 * [Python](https://www.python.org/)バージョン
- * Python3.6を用いる。
- * 利用しているPythonモジュールが動作しない等、やむをえない場合に限りPython2.7を用いる。
+  * Python3.6を用いる。
+  * 利用しているPythonモジュールが動作しない等、やむをえない場合に限りPython2.7を用いる。
 * Python開発環境
   * [Conda](https://conda.io/docs/index.html) による仮想開発環境を用いる。
     * Ref. : [condaによるポータブルなPython環境構築のすすめ](https://qiita.com/yubessy/items/2dd43551aa8308dc7eca)
