@@ -3,6 +3,7 @@
 
 
 * LinuxからWindowsにリモートデスクトップ接続する
+  * Ref. : [FreeRDP](https://github.com/FreeRDP/FreeRDP)
   * Ref. : [FRDP で Windows に接続する](https://www.server-world.info/query?os=CentOS_7&p=x&f=5)
 
 * WindowsからLinuxにリモートデスクトップ接続する
