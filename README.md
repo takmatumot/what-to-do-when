@@ -27,6 +27,7 @@
 
 ## Git
 
+* [GitHubの代替えGitLabのインストール方法と紹介（Ubuntu16.04版）](http://tracpath.com/works/development/how-to-install-the-gitlab/)
 * [TortoiseGitのセットアップ](https://qiita.com/SkyLaptor/items/6347f38c8c010f4d5bd2)
   * Gitインストール時の注意事項
     * Choosing the default editor used By Git部
