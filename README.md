@@ -8,6 +8,7 @@ Trying to gather useful information at least for the author
 * [Git](./Git.md)
 * [Document](./Document.md)
 * [Python](./Python.md)
+* [Windows](./Windows.md)
 
 
 ## RAML
@@ -55,7 +56,10 @@ Trying to gather useful information at least for the author
 * [ビジネス向けチャット「Slack（スラック）」とは？特徴と始め方を日本語で解説！](https://seleck.cc/424)
 * [大流行中・Slack（スラック）の使い方を隅々まで徹底解説！（保存版・1/全10回）【設定について】](https://seleck.cc/406)
 * [大流行中・Slackの使い方【検索の小ワザ】隅々まで徹底解説！（保存版・8/全10回）](https://seleck.cc/450)
+* [slackのIncoming Webhookを試してみた。](https://qiita.com/kooohei/items/2d91b99a4a8125556df9)
 
+## ネットワーク
 
+* [iptables まとめ](https://qiita.com/Tocyuki/items/6d90a1ec4dd8e991a1ce)
 
 
