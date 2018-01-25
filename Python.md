@@ -32,6 +32,24 @@
    * Ref. : [Pythonのdocstringの書き方について](http://tsukin.hateblo.jp/entry/2017/09/27/151427)
   * Pythonのドキュメント生成は[SPhinx](http://www.sphinx-doc.org/ja/stable/)を用いる。
 
+## Conda
+
+conda のコマンド
+
+```
+# conda の入っている環境名リストを取得する
+> conda info --e
+# condaの仮想環境作成
+> conda create -n <myenv> python=3.6
+# 仮想環境に入る
+> activate <myenv>
+# 仮想環境から抜ける
+> deactivate
+# conda環境を削除する
+> conda remove -n <myenv> --all
+```
+
+
 ## Link
 
 * [What is the correct way to document a **kwargs parameter?](https://stackoverflow.com/questions/1137161/what-is-the-correct-way-to-document-a-kwargs-parameter)
