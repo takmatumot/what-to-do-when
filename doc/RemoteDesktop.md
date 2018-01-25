@@ -8,8 +8,35 @@
 * * [AnyDesk](https://anydesk.com/remote-desktop)
 * [TeamViewer](https://www.teamviewer.com/ja/)
 * [リモートデスクトップ TeamViewerとAnyDesk](http://pon250.blogspot.jp/2015/05/teamvieweranydesk.html)
-* [Reverse ssh tunnel を安定運用する](https://qiita.com/syoyo/items/d31e9db6851dfee3ef82)
-* [Raspberry Pi: Phoning Home Using a Reverse Remote Ssh Tunnel(https://www.tunnelsup.com/raspberry-pi-phoning-home-using-a-reverse-remote-ssh-tunnel/)
+
+## ssh関連
+
+### 利用例
+
+* ポートフォワーディング
+```
+> ssh -L ローカルホストのポート:対象のIPアドレス:リモートホストのポート remote-host
+```
+  * shで接続できるリモートホストから通信できる特定のポートを、ローカルホストの特定のポートに紐付ける。
+  ```
+  > ssh -L 22:local-host:22 remote-host  # 例
+  ```
+
+* 逆ポートフォワーディング
+```
+> ssh -R リモートホストのポート:対象のIPアドレス:ローカルホストのポート remote-host
+```
+  * 逆にローカルホストの特定のポートをリモートホストに紐付ける
+  ```
+  user@local-host> ssh -R 10022:local-host:22 remote-host
+  user@remote-host> ssh user@localhost -p 10022
+  user@local-host>
+  ```
+
+### Link
+* * [Reverse ssh tunnel を安定運用する](https://qiita.com/syoyo/items/d31e9db6851dfee3ef82)
+* * [Raspberry Pi: Phoning Home Using a Reverse Remote Ssh Tunnel](https://www.tunnelsup.com/raspberry-pi-phoning-home-using-a-reverse-remote-ssh-tunnel/)
+
 * [SSH (1)](https://euske.github.io/openssh-jman/ssh.html)
 * [楽しいトンネルの掘り方(オプション: -L, -R, -f, -N -g)](https://www.kmc.gr.jp/advent-calendar/ssh/2013/12/09/tunnel2.html)
 * [sshでリバーストンネル](http://d.hatena.ne.jp/rougeref/20140502#1399000025)
@@ -17,8 +44,8 @@
 * [ポートフォワーディング](https://qiita.com/shuma/items/6b9d0127840f08398126)
 * [sshの活用法まとめ](https://qiita.com/ik-fib/items/0af46a19e3083bb0325e)
 
-## 多段ssh
 * [多段SSHの設定を.ssh/configにまとめる](https://qiita.com/ik-fib/items/12e4fab4478e360a82a1)
 * [sshで踏み台経由時のショートカット](https://qiita.com/moroku0519/items/62686784a51ad54b6ac7)
 * [ProxyCommandを使って踏み台(Bastion)経由で直接ssh/scpする](https://dev.classmethod.jp/beginners/direct-ssh-by-proxycommand/)
 * [踏み台を忘れるためのsshコマンド or config](http://kazuph.hateblo.jp/entry/2013/02/04/192358)
+* [社内プロキシに虐げられてる人たちはVPSとか借りて社外にプロキシ立ててsshトンネルで繋ぐとウハウハですよってお話](https://qiita.com/kiida/items/37557a1029788afec98a#comment-6cd3ac44f9bd414a89f6)
