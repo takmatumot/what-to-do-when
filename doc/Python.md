@@ -69,6 +69,25 @@ conda のコマンド
 Python.File="C:\WINDOWS\py.exe" "%L" %*
 ```
 
+```
+(xxx) C:\xxx\xxx>ftype | findstr -i python
+Python.ArchiveFile="C:\WINDOWS\py.exe" "%L" %*
+Python.CompiledFile="C:\WINDOWS\py.exe" "%L" %*
+Python.File="C:\WINDOWS\py.exe" "%L" %*
+Python.NoConArchiveFile="C:\WINDOWS\pyw.exe" "%L" %*
+Python.NoConFile="C:\WINDOWS\pyw.exe" "%L" %*
+
+(xxx) C:\xxx\xxx>assoc | findstr -i python
+.py=Python.File
+.pyc=Python.CompiledFile
+.pyd=Python.Extension
+.pyo=Python.CompiledFile
+.pyw=Python.NoConFile
+.pyz=Python.ArchiveFile
+.pyzw=Python.NoConArchiveFile
+```
+
+
 
 ## Link
 
