@@ -11,16 +11,7 @@ Trying to gather useful information at least for the author
 * [Windows](doc/Windows.md)
 * [Linux](doc/Linux.md)
 * [GoogleHome](doc/GoogleHome.md)
-
-## リモートデスクトップ
-
-* [NoMachine](https://www.nomachine.com/)
-* [NoMachine のNXクライアントで、リモートデスクトップをする](http://takuya-1st.hatenablog.jp/entry/20110502/1304337538)
-* [How to connect by NoMachine and reverse SSH tunnel](https://www.nomachine.com/AR01N00870)
-* [NX Client Installation Instructions (v. 3.5.0)](https://www.nomachine.com/DT12I00005)
-* * [AnyDesk](https://anydesk.com/remote-desktop)
-* [TeamViewer](https://www.teamviewer.com/ja/)
-* [リモートデスクトップ TeamViewerとAnyDesk](http://pon250.blogspot.jp/2015/05/teamvieweranydesk.html)
+* [リモートデスクトップ](doc/RemotoDesktop.md)
 
 ## RAML
 
