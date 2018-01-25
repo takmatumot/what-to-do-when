@@ -5,12 +5,12 @@ Trying to gather useful information at least for the author
 
 ## Link
 
-* [Git](./Git.md)
-* [Document](./Document.md)
-* [Python](./Python.md)
-* [Windows](./Windows.md)
-* [Linux](./Linux.md)
-
+* [Git](doc/Git.md)
+* [Document](doc/Document.md)
+* [Python](doc/Python.md)
+* [Windows](doc/Windows.md)
+* [Linux](doc/Linux.md)
+* [GoogleHome](doc/GoogleHome.md)
 
 ## リモートデスクトップ
 

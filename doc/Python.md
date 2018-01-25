@@ -52,6 +52,24 @@ conda のコマンド
 * condaを単体でつかった場合にはシェバンがきかないので "xxx.py"のファイルをそのまま実行しようとしてもうまっくいかない。
   * Ref. : https://github.com/ContinuumIO/anaconda-issues/issues/149
 
+
+## Executing scripts
+
+* [Windows file extension association not working with Anaconda](https://github.com/ContinuumIO/anaconda-issues/issues/1748)
+* [Executing scripts](https://docs.python.org/2/using/windows.html#executing-scripts)
+* [How do you change file association for .py Python files in XP?](https://stackoverflow.com/questions/8196314/how-do-you-change-file-association-for-py-python-files-in-xp)
+
+* example
+
+```
+(xxx) C:\xxxx\xxx>assoc .py
+.py=Python.File
+
+(xxx) C:\xxx\xxx>ftype Python.File
+Python.File="C:\WINDOWS\py.exe" "%L" %*
+```
+
+
 ## Link
 
 * [What is the correct way to document a **kwargs parameter?](https://stackoverflow.com/questions/1137161/what-is-the-correct-way-to-document-a-kwargs-parameter)
