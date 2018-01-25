@@ -13,3 +13,4 @@
 * [SSH (1)](https://euske.github.io/openssh-jman/ssh.html)
 * [楽しいトンネルの掘り方(オプション: -L, -R, -f, -N -g)](https://www.kmc.gr.jp/advent-calendar/ssh/2013/12/09/tunnel2.html)
 * [sshでリバーストンネル](http://d.hatena.ne.jp/rougeref/20140502#1399000025)
+* [sshによるポートフォワーディングまとめ](https://www.xmisao.com/2013/09/12/ssh-portforwarding.html)
