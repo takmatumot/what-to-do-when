@@ -38,7 +38,7 @@ conda のコマンド
 
 ```
 # conda の入っている環境名リストを取得する
-> conda info --e
+> conda info -e
 # condaの仮想環境作成
 > conda create -n <myenv> python=3.6
 # 仮想環境に入る
@@ -49,7 +49,12 @@ conda のコマンド
 > conda remove -n <myenv> --all
 ```
 
+* condaを単体でつかった場合にはシェバンがきかないので "xxx.py"のファイルをそのまま実行しようとしてもうまっくいかない。
+  * Ref. : https://github.com/ContinuumIO/anaconda-issues/issues/149
 
 ## Link
 
 * [What is the correct way to document a **kwargs parameter?](https://stackoverflow.com/questions/1137161/what-is-the-correct-way-to-document-a-kwargs-parameter)
+* [バージョン番号を２度書かないために](http://methane.hatenablog.jp/entry/20120401/1333260681)
+* [PythonスクリプトをWindowsのexeにする方法 (調査中)](http://minus9d.hatenablog.com/entry/2016/06/20/232653)
+* [PyInstallerでPythonスクリプトをexe化](http://minus9d.hatenablog.com/entry/2016/07/06/215323)
