@@ -9,6 +9,7 @@ Trying to gather useful information at least for the author
 * [Document](./Document.md)
 * [Python](./Python.md)
 * [Windows](./Windows.md)
+* [Linux](./Linux.md)
 
 
 ## リモートデスクトップ

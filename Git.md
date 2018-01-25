@@ -24,6 +24,16 @@
       * [何故 git rebase は駄目で git pull –rebase はいいのか](https://www.lancard.com/blog/2016/11/07/git-rebase-and-pull-rebase/)
       * [GitHubを使うなら最低限知っておきたい、プルリクエストの送り方とレビュー、マージの基本](http://www.atmarkit.co.jp/ait/articles/1702/27/news022.html)
 
+## How to
+
+```
+# git remote のリストをみるとき
+git remote -v
+# gitでリモートのブランチにローカルを強制一致させたい時
+git fetch
+git reset --hard origin/master
+```
+
 ## Link
 
 * [TortoiseGitのセットアップ](https://qiita.com/SkyLaptor/items/6347f38c8c010f4d5bd2)
@@ -68,3 +78,4 @@
  * [忘れやすい人のための git diff チートシート](https://qiita.com/shibukk/items/8c9362a5bd399b9c56be)
  
  * [GitHub の Markdown に TOC (目次) を付けるブックマークレット (vanilla JS 編)](https://qiita.com/hokkun_dayo/items/bd3ec64fba293f4aca08)
+ * [gitでリモートのブランチにローカルを強制一致させたい時](https://qiita.com/ms2sato/items/72b48c1b1923beb1e186)
