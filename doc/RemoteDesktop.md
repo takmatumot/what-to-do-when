@@ -15,3 +15,10 @@
 * [sshでリバーストンネル](http://d.hatena.ne.jp/rougeref/20140502#1399000025)
 * [sshによるポートフォワーディングまとめ](https://www.xmisao.com/2013/09/12/ssh-portforwarding.html)
 * [ポートフォワーディング](https://qiita.com/shuma/items/6b9d0127840f08398126)
+* [sshの活用法まとめ](https://qiita.com/ik-fib/items/0af46a19e3083bb0325e)
+
+## 多段ssh
+* [多段SSHの設定を.ssh/configにまとめる](https://qiita.com/ik-fib/items/12e4fab4478e360a82a1)
+* [sshで踏み台経由時のショートカット](https://qiita.com/moroku0519/items/62686784a51ad54b6ac7)
+* [ProxyCommandを使って踏み台(Bastion)経由で直接ssh/scpする](https://dev.classmethod.jp/beginners/direct-ssh-by-proxycommand/)
+* [踏み台を忘れるためのsshコマンド or config](http://kazuph.hateblo.jp/entry/2013/02/04/192358)
