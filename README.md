@@ -11,7 +11,7 @@ Trying to gather useful information at least for the author
 * [Windows](doc/Windows.md)
 * [Linux](doc/Linux.md)
 * [GoogleHome](doc/GoogleHome.md)
-* [リモートデスクトップ](doc/RemotoDesktop.md)
+* [リモートデスクトップ](doc/RemoteDesktop.md)
 
 ## RAML
 
