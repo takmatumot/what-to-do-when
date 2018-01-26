@@ -79,3 +79,4 @@ git reset --hard origin/master
  
  * [GitHub の Markdown に TOC (目次) を付けるブックマークレット (vanilla JS 編)](https://qiita.com/hokkun_dayo/items/bd3ec64fba293f4aca08)
  * [gitでリモートのブランチにローカルを強制一致させたい時](https://qiita.com/ms2sato/items/72b48c1b1923beb1e186)
+ * [gibo で .gitignore を作るときに .python-version を書かなくても良くなっていた。](https://qiita.com/kitsuyui/items/51cf7ddcafb345d5ba5a)
