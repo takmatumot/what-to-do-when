@@ -15,7 +15,7 @@
 
 * [【bat】Windowsのバッチファイル(*.bat)の書き方自分用まとめ](https://qiita.com/sksmnagisa/items/8c4c1788af44cc1dc63a)
 * [batファイルのカレントディレクトリの取得方法](https://qiita.com/shinichiro106/items/efb5052ef5fb8138c26d)
-
+* [.bat初心者・未経験者に贈るコマンド集](https://qiita.com/sawa_tsuka/items/4432263ef34418175fa9)
 
 ## Link
 * [Windows 10でアプリケーションと拡張子の関連付けを変更する方法](https://121ware.com/qasearch/1007/app/servlet/relatedqa?QID=018054)
