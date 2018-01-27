@@ -24,3 +24,4 @@
 * [Pythonの.pyファイルの関連付け[Windows]](http://cartman0.hatenablog.com/entry/2016/04/11/153733)
 * [Pythonの拡張子関連付け](http://crape.org/tips/programming/91-python-assoc.html)
 * [Windowsのコマンドプロンプトでファイル拡張子の関連付けを変更する](http://www.atmarkit.co.jp/ait/articles/0701/27/news021.html)
+* [Windowsのコマンドプロンプトでtouchコマンド](https://qiita.com/Hiroki_M/items/ffac4383baac1c03adc0)
