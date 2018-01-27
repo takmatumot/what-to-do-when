@@ -15,6 +15,7 @@ Trying to gather useful information at least for the author
 * [タスク管理](doc/TaskManagement.md)
 * [Slack](doc/Slack.md)
 * [仮想環境](doc/VirtualEnvironment.md)
+* [機械学習](doc/ml.md)
 
 ## RAML
 
