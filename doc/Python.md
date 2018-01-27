@@ -95,3 +95,5 @@ Python.NoConFile="C:\WINDOWS\pyw.exe" "%L" %*
 * [バージョン番号を２度書かないために](http://methane.hatenablog.jp/entry/20120401/1333260681)
 * [PythonスクリプトをWindowsのexeにする方法 (調査中)](http://minus9d.hatenablog.com/entry/2016/06/20/232653)
 * [PyInstallerでPythonスクリプトをexe化](http://minus9d.hatenablog.com/entry/2016/07/06/215323)
+* [【json2yaml】JSON を YAML に変換する](https://techblog.recochoku.jp/1410)
+* [yml2json](https://pypi.python.org/pypi/yml2json/1.1.3)
