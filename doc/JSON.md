@@ -15,3 +15,4 @@
 * [prmd を利用して JSON Schema を簡単に管理しよう](https://qiita.com/fakestarbaby/items/90144d8bc3dead46e65c)
 * [JSON Editor Online](https://jsoneditoronline.org/)
 * [JSONをもっと使うために知っておきたいJSONエディタ×8選](https://developer.ntt.com/ja/blog/JSONをもっと使うために知っておきたいJSONエディタ×8選)
+* [schema-based-json-editor] (https://github.com/plantain-00/schema-based-json-editor)

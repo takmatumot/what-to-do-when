@@ -60,6 +60,10 @@ git reset --hard origin/master
    * Gitクライアント側で公開鍵を設定する
    * TortoiseGitのPuttyで秘密鍵を設定する
 
+* Git branching
+  * [LearnGitBranching](k.swd.cc/learnGitBranching-ja/)
+  * [[日本語訳]A successful Git branching model](https://qiita.com/homhom44/items/9f13c646fa2619ae63d0)
+
 * その他
  * [わかりやすい README 駆動開発](https://qiita.com/b4b4r07/items/c80d53db9a0fd59086ec)
  * [空のディレクトリを維持するための、 .gitkeep と .gitignore の使い分け](https://qiita.com/ndxbn/items/f124d2b183b60cb074e2)
@@ -81,5 +85,5 @@ git reset --hard origin/master
  * [gitでリモートのブランチにローカルを強制一致させたい時](https://qiita.com/ms2sato/items/72b48c1b1923beb1e186)
  * [gibo で .gitignore を作るときに .python-version を書かなくても良くなっていた。](https://qiita.com/kitsuyui/items/51cf7ddcafb345d5ba5a)
  * [【備忘録】Windowsにおける.gitkeepファイル作成方法](http://chu-bura.hateblo.jp/entry/2017/10/01/161415)
- 
+
 
