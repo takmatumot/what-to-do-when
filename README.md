@@ -47,4 +47,10 @@ Trying to gather useful information at least for the author
 
 * [iptables まとめ](https://qiita.com/Tocyuki/items/6d90a1ec4dd8e991a1ce)
 
+## Go
+
+* [他言語から来た人がGoを使い始めてすぐハマったこととその答え](https://qiita.com/mumoshu/items/0d2f2a13c6e9fc8da2a4)
+
+
+
 
