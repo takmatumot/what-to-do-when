@@ -21,6 +21,7 @@
 * [Vagrantを使ってWindowsの仮想環境を構築してみた](https://curecode.jp/tech/vagrant_with_windows_guests/)
 * [Vagrant で作ったり壊したりできる Windows 環境を手に入れるまでの手順](tech.nitoyon.com/ja/blog/2014/02/20/vagrant-win-guest/)
 * [個人開発環境をvagrantで建てるべきか、dockerで建てるべきか](https://qiita.com/hirohero/items/1eaa22b7f87eb66b2f2d)
+* [KVM用仮想マシンをVagrantで手軽に作る](https://knowledge.sakura.ad.jp/2535/)
 
 ### Vagrant setup
 
