@@ -53,6 +53,8 @@ conda のコマンド
   * Ref. : https://github.com/ContinuumIO/anaconda-issues/issues/149
 
 
+* [condaによるポータブルなPython環境構築のすすめ](https://qiita.com/yubessy/items/2dd43551aa8308dc7eca)
+
 ## Executing scripts
 
 * [Windows file extension association not working with Anaconda](https://github.com/ContinuumIO/anaconda-issues/issues/1748)
