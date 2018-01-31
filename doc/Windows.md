@@ -33,5 +33,7 @@
 * [EmEditor](https://jp.emeditor.com/download/)
 * [Typora](https://typora.io/)
    * [MarkdownエディタTyporaの日本語フォントがWindowsではダサダサであるのをなんとかする](https://qiita.com/kouichi-c-nakamura/items/45947bcbc954ea611593)
+* [HarooPad](http://pad.haroopress.com/)
+   * [Windows, Mac, Linuxで使えるMarkdownエディタ、HarooPadを使う](https://qiita.com/shohei909/items/f33a6cace1c83bf36c8a)  : 日本語化
 * [LhaPlus](https://forest.watch.impress.co.jp/library/software/lhaplus/)   解凍ソフト
 * [Google Chrome]( https://www.google.co.jp/chrome/browser/desktop/index.html)
