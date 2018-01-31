@@ -34,4 +34,4 @@
 * [Typora](https://typora.io/)
    * [MarkdownエディタTyporaの日本語フォントがWindowsではダサダサであるのをなんとかする](https://qiita.com/kouichi-c-nakamura/items/45947bcbc954ea611593)
 * [LhaPlus](https://forest.watch.impress.co.jp/library/software/lhaplus/)   解凍ソフト
-* ​
+* [Google Chrome]( https://www.google.co.jp/chrome/browser/desktop/index.html)
