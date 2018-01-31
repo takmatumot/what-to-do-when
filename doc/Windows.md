@@ -5,11 +5,11 @@
 * LinuxからWindowsにリモートデスクトップ接続する
   * Ref. : [FreeRDP](https://github.com/FreeRDP/FreeRDP)
   * Ref. : [FRDP で Windows に接続する](https://www.server-world.info/query?os=CentOS_7&p=x&f=5)
-
 * WindowsからLinuxにリモートデスクトップ接続する
   * Ref. : [CentOS7にxrdpを導入しWindowsからリモートデスクトップで接続](https://qiita.com/shinoere/items/35793d9c6155145cb37c)
   * Ref. : [xrdp を用いて Windows から CentOS6 にリモート デスクトップ接続する](https://kogelog.com/2014/09/23/20140923-02/)
-   *  注) [Xrdp login failed](https://askubuntu.com/questions/773626/xrdp-login-failed)
+   * 注) [Xrdp login failed](https://askubuntu.com/questions/773626/xrdp-login-failed)
+ * [[超便利なWindows標準画面キャプチャツール – スニッピングツール(Snipping Tool)](http://techblog.ecstudio.jp/tech-tips/snipping-tool.html)](http://techblog.ecstudio.jp/tech-tips/snipping-tool.html)
 
 ## バッチファイル
 
@@ -25,3 +25,13 @@
 * [Pythonの拡張子関連付け](http://crape.org/tips/programming/91-python-assoc.html)
 * [Windowsのコマンドプロンプトでファイル拡張子の関連付けを変更する](http://www.atmarkit.co.jp/ait/articles/0701/27/news021.html)
 * [Windowsのコマンドプロンプトでtouchコマンド](https://qiita.com/Hiroki_M/items/ffac4383baac1c03adc0)
+
+## Windows セットアップ
+
+* [Windows10でファイルの拡張子を表示](http://qa.nifty.com/cs/catalog/faq_nqa/qid_15385/1.htm)
+* [Git](Git.md)
+* [EmEditor](https://jp.emeditor.com/download/)
+* [Typora](https://typora.io/)
+   * [MarkdownエディタTyporaの日本語フォントがWindowsではダサダサであるのをなんとかする](https://qiita.com/kouichi-c-nakamura/items/45947bcbc954ea611593)
+* [LhaPlus](https://forest.watch.impress.co.jp/library/software/lhaplus/)   解凍ソフト
+* ​
