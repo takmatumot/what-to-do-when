@@ -27,7 +27,7 @@ Trying to gather useful information at least for the author
 ## 画面操作
 
 * [画面操作などをGIFで録画できる「ScreenToGif」を利用して直感的に伝える](https://nelog.jp/screen-to-gif)
- 
+
 ## VI
 
 * [viコマンドについて詳しくまとめました](https://eng-entrance.com/linux-command-vi)
