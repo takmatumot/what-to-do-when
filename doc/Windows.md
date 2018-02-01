@@ -37,3 +37,4 @@
    * [Windows, Mac, Linuxで使えるMarkdownエディタ、HarooPadを使う](https://qiita.com/shohei909/items/f33a6cace1c83bf36c8a)  : 日本語化
 * [LhaPlus](https://forest.watch.impress.co.jp/library/software/lhaplus/)   解凍ソフト
 * [Google Chrome]( https://www.google.co.jp/chrome/browser/desktop/index.html)
+* [Adobe Acrobat Reader](https://get.adobe.com/reader/?loc=jp)
