@@ -29,6 +29,7 @@
 ## Windows セットアップ
 
 * [Windows10でファイルの拡張子を表示](http://qa.nifty.com/cs/catalog/faq_nqa/qid_15385/1.htm)
+* [Windows 10でプリンターを設定する方法](https://121ware.com/qasearch/1007/app/servlet/relatedqa?QID=018177)
 * [Git](Git.md)
 * [EmEditor](https://jp.emeditor.com/download/)
 * [Typora](https://typora.io/)
