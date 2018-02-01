@@ -17,7 +17,12 @@
 * [batファイルのカレントディレクトリの取得方法](https://qiita.com/shinichiro106/items/efb5052ef5fb8138c26d)
 * [.bat初心者・未経験者に贈るコマンド集](https://qiita.com/sawa_tsuka/items/4432263ef34418175fa9)
 
+## Xサーバ
+
+* [MobaXterm](https://mobaxterm.mobatek.net/)
+
 ## Link
+
 * [Windows 10でアプリケーションと拡張子の関連付けを変更する方法](https://121ware.com/qasearch/1007/app/servlet/relatedqa?QID=018054)
 * [Windowsのコマンドプロンプトでファイル拡張子の関連付けを変更する](http://www.atmarkit.co.jp/ait/articles/0701/27/news021.html)
 * [[Win10] 拡張子ごとの関連付けを解除する方法](https://shnk38.com/pc/how-to-win/win10-ext-association/)
