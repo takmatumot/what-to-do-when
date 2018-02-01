@@ -49,7 +49,7 @@ git reset --hard origin/master
     * Configuring the terminal emulator to use with Git Bash部
      * Use MinTTY (the default terminal of MSYS2)を選択する
   * Turtoise Gitインストール時の注意事項
-   *  SSHクライアントは TortoiseGitPlink... を選択する
+   * SSHクライアントは TortoiseGitPlink... を選択する
 * Linux での　git tools
    * [tig](https://github.com/jonas/tig) 
    * [linuxでtigをコンパイルする](https://qiita.com/tdrk/items/06b21bedff3244e21aae)
@@ -59,15 +59,12 @@ git reset --hard origin/master
    * OpenSSH の秘密鍵からPutty形式の秘密鍵を作成する
    * Gitクライアント側で公開鍵を設定する
    * TortoiseGitのPuttyで秘密鍵を設定する
-
 * Git branching
   * [LearnGitBranching](k.swd.cc/learnGitBranching-ja/)
   * [[日本語訳]A successful Git branching model](https://qiita.com/homhom44/items/9f13c646fa2619ae63d0)
-
 * Git submodule
   * [Git submoduleの基礎](https://qiita.com/sotarok/items/0d525e568a6088f6f6bb)
   * [Git submoduleの押さえておきたい理解ポイントのまとめ](https://qiita.com/kinpira/items/3309eb2e5a9a422199e9)
-
 * その他
  * [わかりやすい README 駆動開発](https://qiita.com/b4b4r07/items/c80d53db9a0fd59086ec)
  * [空のディレクトリを維持するための、 .gitkeep と .gitignore の使い分け](https://qiita.com/ndxbn/items/f124d2b183b60cb074e2)
@@ -84,11 +81,11 @@ git reset --hard origin/master
  * [初めてGitHubリポジトリにpushしたらrejectedエラーになったときの対応メモ](https://qiita.com/takanatsu/items/fc89de9bd11148da1438)
  * [git fetchの理解からgit mergeとpullの役割](https://qiita.com/osamu1203/items/cb94ef9da02e1ec3e921)
  * [忘れやすい人のための git diff チートシート](https://qiita.com/shibukk/items/8c9362a5bd399b9c56be)
- 
  * [GitHub の Markdown に TOC (目次) を付けるブックマークレット (vanilla JS 編)](https://qiita.com/hokkun_dayo/items/bd3ec64fba293f4aca08)
  * [gitでリモートのブランチにローカルを強制一致させたい時](https://qiita.com/ms2sato/items/72b48c1b1923beb1e186)
  * [gibo で .gitignore を作るときに .python-version を書かなくても良くなっていた。](https://qiita.com/kitsuyui/items/51cf7ddcafb345d5ba5a)
  * [【備忘録】Windowsにおける.gitkeepファイル作成方法](http://chu-bura.hateblo.jp/entry/2017/10/01/161415)
  * [git add -A と git add . と git add -u の違い](https://qiita.com/YusukeHigaki/items/06e38eec96387d408780)
- 
+ * [Git for Windowsでのシンボリックリンク ](https://opcdiary.net/?p=31100)
+
 
