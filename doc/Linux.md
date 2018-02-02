@@ -20,5 +20,8 @@
 ## Misc.
 
 * [FirefoxをゲストOSで起動しようとすると、localeエラーが発生して起動できない]( https://github.com/hageyahhoo/RecipesForWDJ/issues/1)
-  ​      
+* [CentOS7の日本語化（日本語環境で利用する)](http://vps-okinawa-blog.net/?p=97)
+* [[CentOS\]CentOS7でのロケール(locale)の確認及び変更](http://zero-config.com/centos/changelocale-002.html)
+* ​
+
 
