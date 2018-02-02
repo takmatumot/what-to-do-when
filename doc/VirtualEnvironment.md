@@ -94,6 +94,26 @@ config.ssh.forward_x11 = true
     * [[Vagrant] VagrantでSSH接続するためのSSH client導入法 for Windows ユーザー [PuTTY]](https://qiita.com/pakiran/items/eeeb736cbef5d8b609db)
     * [PuTTYでは、SSH接続するための秘密鍵はpemファイルじゃだめ](http://d.hatena.ne.jp/kaishitaeiichi/20120104/1326122048)
     * [Vagrantの環境でGUIを立ち上げるための環境構築](http://msyksphinz.hatenablog.com/entry/2015/11/24/020000)
+  * vagrant  ssh-config で privatekeyを確認し　PUTTY形式(.ppk)に変換する。
+    * Putty Key Generatorを立ち上げる
+    * Fileメニューから Load private key を選ぶ
+    * 出てきたexplore画面でファイルタイプを変更する
+      * PuTTY Private Key Files (*.ppk) --> All Files (\*.\*)
+    * private_key を開く
+    * save private keyのボタンを押す　(pass phraseは指定しなくてもよい)
+    * private_key.ppk の名前で保存する
+  * putty で各種パラメータを設定する
+    * Puttyセッションの基本設定
+      * ホスト名 :   127.0.0.1
+      * ポート : 2222
+      * 接続タイプ:   SSH
+    * 接続 --> データ
+      * ログインの詳細:   自動ログインのユーザー名:   vagrant
+    * 接続 --> SSH --> 認証
+      * 認証パラメータ:   認証のための秘密鍵ファイル(K):  --> 先に生成した private_key.ppk を指定する
+    * 設定が終わったら開くボタンをクリック
+
+
 
 ## Windowsコンテナ
 
