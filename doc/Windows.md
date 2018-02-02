@@ -48,3 +48,4 @@
 * [Adobe Acrobat Reader](https://get.adobe.com/reader/?loc=jp)
 * [Windowsでsshクライアント「PuTTY」を使う](http://www.atmarkit.co.jp/ait/articles/1006/25/news095.html)
 * [WinSCP](https://winscp.net/eng/docs/lang:jp)
+* [リモートデスクトップの接続を許可する方法 ( Windows 10 )](http://faq3.dospara.co.jp/faq/show/06300?site_domain=default)
