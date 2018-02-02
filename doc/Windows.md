@@ -9,7 +9,7 @@
   * Ref. : [CentOS7にxrdpを導入しWindowsからリモートデスクトップで接続](https://qiita.com/shinoere/items/35793d9c6155145cb37c)
   * Ref. : [xrdp を用いて Windows から CentOS6 にリモート デスクトップ接続する](https://kogelog.com/2014/09/23/20140923-02/)
    * 注) [Xrdp login failed](https://askubuntu.com/questions/773626/xrdp-login-failed)
- * [[超便利なWindows標準画面キャプチャツール – スニッピングツール(Snipping Tool)](http://techblog.ecstudio.jp/tech-tips/snipping-tool.html)](http://techblog.ecstudio.jp/tech-tips/snipping-tool.html)
+ * [超便利なWindows標準画面キャプチャツール – スニッピングツール Snipping Tool](http://techblog.ecstudio.jp/tech-tips/snipping-tool.html)
 
 ## バッチファイル
 

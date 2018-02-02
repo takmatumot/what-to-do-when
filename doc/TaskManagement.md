@@ -10,3 +10,4 @@
   * Trello用途のChrome拡張プラグインの情報もあり
 * [タスク管理ツール「Trello」を仕事で使いこなすためのアイデア集](https://ferret-plus.com/7616)
 * [タスク管理ツール「Trello」をもっと便利にするChrome拡張機能まとめ](https://liginc.co.jp/web/service/other-service/154188)
+
