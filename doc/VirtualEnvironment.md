@@ -53,6 +53,48 @@
   > vagrant up
   ```
 
+## ssh セッティング
+
+* Vagrantfileに以下の記述をいれておく。
+
+```
+config.ssh.forward_agent = true
+config.ssh.forward_x11 = true
+```
+
+* 修正後 vagrant reload で設定を反映させる
+
+* vagrant上にX11用のライブラリをインストール
+
+  * 参考情報
+
+    * [How to enable and use SSH X11 Forwarding on Vagrant Instances](https://computingforgeeks.com/how-to-enable-and-use-ssh-x11-forwarding-on-vagrant-instances/)
+
+  * For CentOS 7 and below, Fedora 21 and below run
+
+    ```
+    yum install xorg-x11-xauth
+    ```
+
+  * For Debian based systems: Ubuntu/Debian/Linux Mint, Kali Linux e.t.c, do
+
+    ```
+    sudo apt-get install xauth
+    ```
+
+  * For Fedora 22 and 23, run
+
+    ```
+    dnf install xorg-x11-xauth
+    ```
+
+* Putty側の設定
+
+  * 参考情報
+    * [[Vagrant] VagrantでSSH接続するためのSSH client導入法 for Windows ユーザー [PuTTY]](https://qiita.com/pakiran/items/eeeb736cbef5d8b609db)
+    * [PuTTYでは、SSH接続するための秘密鍵はpemファイルじゃだめ](http://d.hatena.ne.jp/kaishitaeiichi/20120104/1326122048)
+    * [Vagrantの環境でGUIを立ち上げるための環境構築](http://msyksphinz.hatenablog.com/entry/2015/11/24/020000)
+
 ## Windowsコンテナ
 
 * [Windowsコンテナー](https://docs.microsoft.com/ja-jp/virtualization/windowscontainers/about/)

@@ -20,6 +20,12 @@ Trying to gather useful information at least for the author
 * [WebAPI](doc//WebAPI.md)
 * [JavaScript](doc/JavaScript.md)
 
+
+
+## 認証
+
+* [ssh-agentの基本](https://qiita.com/yudoufu/items/82f752807893c63f06db)
+
 ## Django
 
 * [django-rest-frameworkチュートリアル和訳](http://sandmark.hateblo.jp/entry/2017/09/30/160945)
