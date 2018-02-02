@@ -5,11 +5,12 @@
 ## VirtualBox
 
 * [初心者でもわかる】VirtualBoxインストール方法を詳しく！](https://eng-entrance.com/virtualbox-install)
+* [VirtualBoxの仮想マシンフォルダ変更手順メモ]( https://qiita.com/sugard12/items/8b4f420b3afed79fe003)
 
 ## Docker
 
 * [プライベートなDockerレジストリサーバーをコンテナで立てる](https://qiita.com/rsakao/items/617f54579278173d3c20)
- 
+
 ## Vagrant
 
 * [開発環境の構築・共有を簡単にするVagrant入門](https://thinkit.co.jp/story/2015/03/19/5740)
@@ -22,6 +23,9 @@
 * [Vagrant で作ったり壊したりできる Windows 環境を手に入れるまでの手順](tech.nitoyon.com/ja/blog/2014/02/20/vagrant-win-guest/)
 * [個人開発環境をvagrantで建てるべきか、dockerで建てるべきか](https://qiita.com/hirohero/items/1eaa22b7f87eb66b2f2d)
 * [KVM用仮想マシンをVagrantで手軽に作る](https://knowledge.sakura.ad.jp/2535/)
+* [vagrantのboxフォルダ変更手順メモ](https://qiita.com/sugard12/items/85b2e70c87a354675a0e)
+* [【まとめ】Vagrant コマンド一覧]( https://qiita.com/oreo3@github/items/4054a4120ccc249676d9)
+* [Vagrantの環境でGUIを立ち上げるための環境構築](http://msyksphinz.hatenablog.com/entry/2015/11/24/020000)
 
 ### Vagrant setup
 
@@ -30,24 +34,24 @@
  * [Vagrant](https://www.vagrantup.com/)
 2. VM用ディレクトリの作成
 3. Vagrantfileの生成
-	```
-	> vagrant init --minimal ubuntu/trusty64
-	```
-	* 利用するbox(Atlas)は[こちら](https://app.vagrantup.com/boxes/search)を参照。
+  ```
+  > vagrant init --minimal ubuntu/trusty64
+  ```
+  * 利用するbox(Atlas)は[こちら](https://app.vagrantup.com/boxes/search)を参照。
 4. VMの起動とssh ログイン
-	```
-	> vagrant up
-	
-	> vagrant ssh
-	```
+  ```
+  > vagrant up
+
+  > vagrant ssh
+  ```
 
 * トラブルがあり最初からやり直すばあいのVMの消去および再スタート
 
-	```
-	> vagrant destroy
+  ```
+  > vagrant destroy
 
-	> vagrant up
-	```
+  > vagrant up
+  ```
 
 ## Windowsコンテナ
 
