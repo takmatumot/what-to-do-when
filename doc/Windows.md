@@ -47,3 +47,4 @@
 * [Google Chrome]( https://www.google.co.jp/chrome/browser/desktop/index.html)
 * [Adobe Acrobat Reader](https://get.adobe.com/reader/?loc=jp)
 * [Windowsでsshクライアント「PuTTY」を使う](http://www.atmarkit.co.jp/ait/articles/1006/25/news095.html)
+* [WinSCP](https://winscp.net/eng/docs/lang:jp)
