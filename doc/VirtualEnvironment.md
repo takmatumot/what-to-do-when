@@ -6,6 +6,7 @@
 
 * [初心者でもわかる】VirtualBoxインストール方法を詳しく！](https://eng-entrance.com/virtualbox-install)
 * [VirtualBoxの仮想マシンフォルダ変更手順メモ]( https://qiita.com/sugard12/items/8b4f420b3afed79fe003)
+* [VirtualBox上のGNOME(CentOS7)CentOSデスクトップ解像度を変更する](https://usado.jp/spdsk/2017/10/24/post-2333/ ) 
 
 ## Docker
 
