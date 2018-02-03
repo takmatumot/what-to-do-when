@@ -35,6 +35,7 @@
 * [Vagrant エラー（Guest Additions - vboxsf）](https://qiita.com/reflet/items/98fd548a6ef341f685bb)
   * CentOSで共有フォルダ作ろうとすると boxsfのファイルシステムがないといわれる。こちらのプラグインの手続きも必要になる。
 * [vagrantのネットワークについて](https://qiita.com/ftakao2007/items/0ec05c2ef3c14cdbea11)
+* [vagrant + centos7 でprivate_networkで設定したIPに接続ができない](https://qiita.com/junqiq/items/a19d3ea48b072a1b28d3)
 
 ### Vagrant setup
 
