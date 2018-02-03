@@ -32,3 +32,4 @@
 * gnome-terminalが起動しなくなったとき
   * バックで動いている dbus-daemon  or dbus-launch を kill してみる。
   * "dbus-launch gnome-terminal"で起動させてみる。
+  * "unset LANG" を試してみる。

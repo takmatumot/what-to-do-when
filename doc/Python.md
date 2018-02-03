@@ -27,7 +27,7 @@
    * Ref. [pydoc さわってみた](http://carumisu.hatenablog.com/entry/2015/10/12/204148)
   * headerでのdocument書き方の例
     * Ref. : [What is the common header format of Python files?
-](https://stackoverflow.com/questions/1523427/what-is-the-common-header-format-of-python-files)
+      ](https://stackoverflow.com/questions/1523427/what-is-the-common-header-format-of-python-files)
   * 関数部のdocumentの書き方は google style, numpy, reSTスタイルがあるが、reST スタイルを用いる。 (PyCharm利用時に reSTスタイルでdocstringが自動補完されるため)
    * Ref. : [Pythonのdocstringの書き方について](http://tsukin.hateblo.jp/entry/2017/09/27/151427)
   * Pythonのドキュメント生成は[SPhinx](http://www.sphinx-doc.org/ja/stable/)を用いる。
@@ -99,3 +99,6 @@ Python.NoConFile="C:\WINDOWS\pyw.exe" "%L" %*
 * [PyInstallerでPythonスクリプトをexe化](http://minus9d.hatenablog.com/entry/2016/07/06/215323)
 * [【json2yaml】JSON を YAML に変換する](https://techblog.recochoku.jp/1410)
 * [yml2json](https://pypi.python.org/pypi/yml2json/1.1.3)
+* [PythonのUnicodeEncodeErrorを知る](http://lab.hde.co.jp/2008/08/pythonunicodeencodeerror.html)
+* [](Windows) Python3でのUnicodeEncodeErrorの原因と回避方法](https://qiita.com/butada/items/33db39ced989c2ebf644)
+* [Python3でUnicodeDecodeErrorに遭遇したときのTODOリスト](https://qiita.com/narupo/items/c6ea890c485fecee440a)
