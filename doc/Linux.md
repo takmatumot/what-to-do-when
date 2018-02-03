@@ -22,6 +22,13 @@
 * [FirefoxをゲストOSで起動しようとすると、localeエラーが発生して起動できない]( https://github.com/hageyahhoo/RecipesForWDJ/issues/1)
 * [CentOS7の日本語化（日本語環境で利用する)](http://vps-okinawa-blog.net/?p=97)
 * [[CentOS\]CentOS7でのロケール(locale)の確認及び変更](http://zero-config.com/centos/changelocale-002.html)
-* ​
+* [Dockerで立てたCentOS7コンテナの日本語環境とかtimezone設定とか](https://7me.oji.0j0.jp/2016/centos7-locale-timezone.html)
+* [CentOSに日本語のmanをインストールする方法](http://kaworu.jpn.org/kaworu/2007-11-24-3.php)
+* [Docker：Centos7公式コンテナにmanを入れてもマニュアルが出てこないときのインストール法](http://okisanjp.hatenablog.jp/entry/2017/01/06/214353)
 
 
+## gnome-terminal
+
+* gnome-terminalが起動しなくなったとき
+  * バックで動いている dbus-daemon  or dbus-launch を kill してみる。
+  * "dbus-launch gnome-terminal"で起動させてみる。
