@@ -12,6 +12,7 @@
 ##  ssh
 
 * [ssh-copy-idで公開鍵を渡す](https://qiita.com/kentarosasaki/items/aa319e735a0b9660f1f0)
+* [OpenSSHの警告メッセージを出さないようにする方法](https://qiita.com/shotaTsuge/items/48bdaccdafa5475d9016)
 
 ## LXD
 
