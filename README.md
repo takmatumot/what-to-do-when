@@ -22,16 +22,13 @@ Trying to gather useful information at least for the author
 * [Ansible](doc/Ansible.md)
 * [LXD](doc/LXD.md)
 * [Nginx](doc/Nginx.md)
+* [Django](doc/Django.md)
 
 
 
 ## 認証
 
 * [ssh-agentの基本](https://qiita.com/yudoufu/items/82f752807893c63f06db)
-
-## Django
-
-* [django-rest-frameworkチュートリアル和訳](http://sandmark.hateblo.jp/entry/2017/09/30/160945)
 
 ## 画面操作
 
