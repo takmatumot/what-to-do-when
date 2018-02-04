@@ -9,6 +9,10 @@
 * [本当に正しい .bashrc と .bash_profile の使ひ分け](https://qiita.com/magicant/items/d3bb7ea1192e63fba850)
 * [.bash_profileや.bashrcをフラグメントする(.bash.d)](https://qiita.com/NewGyu/items/e3a5b3e2224f96b68fcc)
 
+##  ssh
+
+* [ssh-copy-idで公開鍵を渡す](https://qiita.com/kentarosasaki/items/aa319e735a0b9660f1f0)
+
 ## LXD
 
 * [Ubuntu 17.10 で LXD を試してみる](https://blog.1q77.com/2017/11/lxd-on-ubuntu-17-10/)

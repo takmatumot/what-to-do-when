@@ -19,6 +19,8 @@ Trying to gather useful information at least for the author
 * [機械学習](doc/ml.md)
 * [WebAPI](doc//WebAPI.md)
 * [JavaScript](doc/JavaScript.md)
+* [Ansible](doc/Ansible.md)
+* [LXD](doc/LXD.md)
 
 
 

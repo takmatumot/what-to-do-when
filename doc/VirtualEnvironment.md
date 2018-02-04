@@ -14,27 +14,49 @@
 
 ## Vagrant
 
+*[『Vagrant Cloud』を利用してVagrantのBoxを追加してみよう](http://vdeep.net/vagrant-cloud)
+
 * [開発環境の構築・共有を簡単にするVagrant入門](https://thinkit.co.jp/story/2015/03/19/5740)
+
 * [VagrantとDockerについて名前しか知らなかったので試した](https://qiita.com/hidekuro/items/fc12344d36d996198e96)
+
 * [VirtualBox+Vagrantで楽々Docker環境構築（Windows）](https://qiita.com/mikoski01/items/7ed36ac9e402658bb93e)
+
 * [Discover Vagrant Boxes](https://app.vagrantup.com/boxes/search)
+
 * [Vagrant ssh-configでvagrant sshを快適にする](https://qiita.com/Sanche/items/43d615beef05cd9417e2)
+
 * [Docker (for Windows)と Vagrant の比較と活用事例](https://qiita.com/yoshiwatanabe/items/a42af12a0043faed1a5e)
+
 * [Vagrantを使ってWindowsの仮想環境を構築してみた](https://curecode.jp/tech/vagrant_with_windows_guests/)
+
 * [Vagrant で作ったり壊したりできる Windows 環境を手に入れるまでの手順](tech.nitoyon.com/ja/blog/2014/02/20/vagrant-win-guest/)
+
 * [個人開発環境をvagrantで建てるべきか、dockerで建てるべきか](https://qiita.com/hirohero/items/1eaa22b7f87eb66b2f2d)
+
 * [KVM用仮想マシンをVagrantで手軽に作る](https://knowledge.sakura.ad.jp/2535/)
+
 * [vagrantのboxフォルダ変更手順メモ](https://qiita.com/sugard12/items/85b2e70c87a354675a0e)
+
 * [【まとめ】Vagrant コマンド一覧]( https://qiita.com/oreo3@github/items/4054a4120ccc249676d9)
+
 * [VagrantのBoxに自動でyum updateしたい件](https://qiita.com/nora_kuragen/items/a4917665d39e3a8f8182)
+
 * [Vagrantfileでminiconda設定をprovisioningで設定しておく]( )(https://gist.github.com/malev/2d2d76b1662e13acbbca)
+
 * [VagrantのOSをロールバックさせられるsaharaの使い方メモ](https://qiita.com/muyuu/items/99df9135676f0f95f7e9)
+
 * [proxy環境でvagrantでVM作るとき、vagrantfileに書いたことまとめ](https://qiita.com/tomocha0911/items/1cde377c747f7fcabf26)
+
 * [Vagrantで、仮想環境を配布するようなシチュエーションのお話](https://qiita.com/m-shin/items/459f1dec234a3873d3d3)
+
 * [vagrantの共有フォルダ設定](https://qiita.com/tsnb/items/3fa9b824c94604d22a5e)
+
 * [Vagrant エラー（Guest Additions - vboxsf）](https://qiita.com/reflet/items/98fd548a6ef341f685bb)
   * CentOSで共有フォルダ作ろうとすると boxsfのファイルシステムがないといわれる。こちらのプラグインの手続きも必要になる。
+
 * [vagrantのネットワークについて](https://qiita.com/ftakao2007/items/0ec05c2ef3c14cdbea11)
+
 * [vagrant + centos7 でprivate_networkで設定したIPに接続ができない](https://qiita.com/junqiq/items/a19d3ea48b072a1b28d3)
 
 ### Vagrant setup
