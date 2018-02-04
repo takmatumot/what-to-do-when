@@ -21,6 +21,7 @@ Trying to gather useful information at least for the author
 * [JavaScript](doc/JavaScript.md)
 * [Ansible](doc/Ansible.md)
 * [LXD](doc/LXD.md)
+* [Nginx](doc/Nginx.md)
 
 
 
