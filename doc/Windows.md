@@ -10,6 +10,7 @@
   * Ref. : [xrdp を用いて Windows から CentOS6 にリモート デスクトップ接続する](https://kogelog.com/2014/09/23/20140923-02/)
    * 注) [Xrdp login failed](https://askubuntu.com/questions/773626/xrdp-login-failed)
  * [超便利なWindows標準画面キャプチャツール – スニッピングツール Snipping Tool](http://techblog.ecstudio.jp/tech-tips/snipping-tool.html)
+ * [Windows 10 Hyper-Vを有効/無効にする方法](http://kagasu.hatenablog.com/entry/2016/09/24/192659)
 
 ## バッチファイル
 

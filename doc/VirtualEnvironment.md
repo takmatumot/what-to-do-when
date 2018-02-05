@@ -4,6 +4,7 @@
 ## Misc.
 
 * [仮想マシンから抜ける方法](http://d.hatena.ne.jp/EijiYoshida/20140625/1403689016)
+* [新時代のWeb開発現場はどうなる？Vagrant + Dockerで何が便利になるかまとめてみた](https://sitest.jp/blog/?p=8529)
 
 ## VirtualBox
 
