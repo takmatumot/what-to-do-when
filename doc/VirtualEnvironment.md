@@ -1,6 +1,9 @@
 
 # 仮想環境
 
+## Misc.
+
+* [仮想マシンから抜ける方法](http://d.hatena.ne.jp/EijiYoshida/20140625/1403689016)
 
 ## VirtualBox
 
