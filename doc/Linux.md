@@ -38,3 +38,8 @@
   * バックで動いている dbus-daemon  or dbus-launch を kill してみる。
   * "dbus-launch gnome-terminal"で起動させてみる。
   * "unset LANG" を試してみる。
+
+## CentOS
+
+* [CentOS 7 の Hostname を変更する](https://qiita.com/n-oshiro/items/d18ab37bce2b25b2d5b0) 
+* [CentOS7のネットワーク設定(nmtui)](www.unknownengineer.net/entry/2016/06/21/123537)
