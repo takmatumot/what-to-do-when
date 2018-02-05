@@ -37,6 +37,7 @@ git reset --hard origin/master
 ## GitLab
 
 * [Gitlabのバージョンを確認する](https://orebibou.com/2016/10/gitlab%E3%81%AE%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E7%A2%BA%E8%AA%8D%E3%81%99%E3%82%8B/)
+* [GitLab(Docker版)の設定でSignin enabledのチェック外しを元に戻す手順](https://qiita.com/mikoski01/items/14ee930c44eba8eb2fdb)
 
 
 
