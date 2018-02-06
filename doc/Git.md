@@ -40,6 +40,7 @@ git reset --hard origin/master
 * [GitLab(Docker版)の設定でSignin enabledのチェック外しを元に戻す手順](https://qiita.com/mikoski01/items/14ee930c44eba8eb2fdb)
 * [GitLabがメモリ不足で遅いときの対処法](https://qiita.com/lanevok/items/33a694150c8473d9ab48)
 * [GitLab リポジトリの Clone URL として表示されるホスト名を変更する](https://maku77.github.io/git/gitlab/change-hostname.html)
+* [GitLab on docker のバージョンアップをしてみた](https://qiita.com/DG0426/items/28b205901fca9eaff80a)
 
 
 
