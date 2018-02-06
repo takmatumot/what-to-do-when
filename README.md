@@ -5,26 +5,25 @@ Trying to gather useful information at least for the author
 
 ## Link
 
-* [Git](doc/Git.md)
-* [Document](doc/Document.md)
-* [Python](doc/Python.md)
-* [Windows](doc/Windows.md)
-* [Linux](doc/Linux.md)
-* [GoogleHome](doc/GoogleHome.md)
-* [リモートデスクトップ](doc/RemoteDesktop.md)
-* [タスク管理](doc/TaskManagement.md)
-* [Slack](doc/Slack.md)
-* [仮想環境](doc/VirtualEnvironment.md)
-* [JSON](doc/JSON.md)
-* [機械学習](doc/ml.md)
-* [WebAPI](doc//WebAPI.md)
-* [JavaScript](doc/JavaScript.md)
 * [Ansible](doc/Ansible.md)
-* [LXD](doc/LXD.md)
-* [Nginx](doc/Nginx.md)
 * [Django](doc/Django.md)
 * [Docker](doc/Docker.md)
-
+* [Document](doc/Document.md)
+* ​[Git](doc/Git.md)
+* [GoogleHome](doc/GoogleHome.md)
+* [JavaScript](doc/JavaScript.md)
+* [JSON](doc/JSON.md)
+* [Linux](doc/Linux.md)
+* [LXD](doc/LXD.md)
+* [Nginx](doc/Nginx.md)
+* [Python](doc/Python.md)
+* [Slack](doc/Slack.md)
+* [WebAPI](doc//WebAPI.md)
+* [Windows](doc/Windows.md)
+* [タスク管理](doc/タスク管理.md)
+* [リモートデスクトップ](doc/リモートデスクトップ.md)
+* [仮想環境](doc/仮想環境.md)
+* [機械学習](doc/機械学習.md)
 
 
 ## 認証
