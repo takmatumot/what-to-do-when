@@ -24,6 +24,7 @@ Trying to gather useful information at least for the author
 * [リモートデスクトップ](doc/リモートデスクトップ.md)
 * [仮想環境](doc/仮想環境.md)
 * [機械学習](doc/機械学習.md)
+* [認証](doc/認証.md)
 
 
 ## 認証
