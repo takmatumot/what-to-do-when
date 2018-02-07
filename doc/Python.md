@@ -102,3 +102,4 @@ Python.NoConFile="C:\WINDOWS\pyw.exe" "%L" %*
 * [PythonのUnicodeEncodeErrorを知る](http://lab.hde.co.jp/2008/08/pythonunicodeencodeerror.html)
 * [](Windows) Python3でのUnicodeEncodeErrorの原因と回避方法](https://qiita.com/butada/items/33db39ced989c2ebf644)
 * [Python3でUnicodeDecodeErrorに遭遇したときのTODOリスト](https://qiita.com/narupo/items/c6ea890c485fecee440a)
+* [pythonで print の出力結果を即時表示, 強制表示, フラッシュさせる（主にjupyter）](https://qiita.com/mmsstt/items/469a9346ce545709f53c)
