@@ -9,7 +9,7 @@ Trying to gather useful information at least for the author
 * [Django](doc/Django.md)
 * [Docker](doc/Docker.md)
 * [Document](doc/Document.md)
-* ​[Git](doc/Git.md)
+* [Git](doc/Git.md)
 * [GoogleHome](doc/GoogleHome.md)
 * [JavaScript](doc/JavaScript.md)
 * [JSON](doc/JSON.md)
@@ -26,6 +26,10 @@ Trying to gather useful information at least for the author
 * [機械学習](doc/機械学習.md)
 * [認証](doc/認証.md)
 
+
+## リバースプロキシ
+
+* [リバースプロキシって何？触りだけ学んだサーバー/インフラ入門](https://qiita.com/growsic/items/fead30272a5fa374ac7b)
 
 ## 認証
 
