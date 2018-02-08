@@ -11,3 +11,5 @@
 ## Nginx
 
 * [【Django入門】Nginxを使ってWebサーバーを動かそう](https://www.sejuku.net/blog/28751)
+* [EC2上で Django + Nginx + uWSGI を試す](https://qiita.com/melos/items/91dc3b45a589ea5a369b)
+

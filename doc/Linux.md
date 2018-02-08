@@ -30,6 +30,7 @@
 * [Dockerで立てたCentOS7コンテナの日本語環境とかtimezone設定とか](https://7me.oji.0j0.jp/2016/centos7-locale-timezone.html)
 * [CentOSに日本語のmanをインストールする方法](http://kaworu.jpn.org/kaworu/2007-11-24-3.php)
 * [Docker：Centos7公式コンテナにmanを入れてもマニュアルが出てこないときのインストール法](http://okisanjp.hatenablog.jp/entry/2017/01/06/214353)
+* [Address already in use の対処法](https://qiita.com/Arashi/items/8b8d9d2f1f040b2aecf1)
 
 
 ## gnome-terminal

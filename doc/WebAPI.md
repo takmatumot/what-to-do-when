@@ -13,3 +13,9 @@
   * [API Workbench](http://apiworkbench.com/)をインストール
   * [Node.js / npmをインストールする（for Windows)](https://qiita.com/taiponrock/items/9001ae194571feb63a5e)
   * [raml2html](https://github.com/raml2html/raml2html)をインストール
+
+
+
+## Misc.
+
+* [ちゃんと運用するときのuWSGI設定メモ](https://qiita.com/yasunori/items/64606e63b36b396cf695)
