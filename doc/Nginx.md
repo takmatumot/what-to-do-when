@@ -7,4 +7,5 @@
 * [NginxでHTTPS : ゼロから始めてSSLの評価をA+にするまで Part 1](postd.cc/https-on-nginx-from-zero-to-a-plus-part-1/)
 * [CentOS7にnginx導入](https://qiita.com/MuuKojima/items/afc0ad8309ba9c5ed5ee)
 * [Nginxでsites-enabledが読み込まれない](http://wat-aro.hatenablog.com/entry/2016/03/10/130542)
+* [Nginx設定のまとめ](https://qiita.com/syou007/items/3e2d410bbe65a364b603)
 
