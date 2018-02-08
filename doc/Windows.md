@@ -52,3 +52,7 @@
 * [Windowsでsshクライアント「PuTTY」を使う](http://www.atmarkit.co.jp/ait/articles/1006/25/news095.html)
 * [WinSCP](https://winscp.net/eng/docs/lang:jp)
 * [リモートデスクトップの接続を許可する方法 ( Windows 10 )](http://faq3.dospara.co.jp/faq/show/06300?site_domain=default)
+* [VisualStudio Community 2017](https://www.visualstudio.com/ja/downloads/?rr=https%3A%2F%2Fwww.microsoft.com%2Fja-jp%2Fdev%2Fproducts%2Fcommunity.aspx)
+* [CMake](https://cmake.org/)
+* [Doxygen](www.doxygen.jp/)
+
