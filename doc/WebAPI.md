@@ -19,3 +19,4 @@
 ## Misc.
 
 * [ちゃんと運用するときのuWSGI設定メモ](https://qiita.com/yasunori/items/64606e63b36b396cf695)
+* [Flask + uWSGI + Nginx でハローワールドするまで @ さくらのVPS (CentOS 6.6)](https://qiita.com/morinokami/items/e0efb2ae2aa04a1b148b)
