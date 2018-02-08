@@ -105,3 +105,4 @@ Python.NoConFile="C:\WINDOWS\pyw.exe" "%L" %*
 * [pythonで print の出力結果を即時表示, 強制表示, フラッシュさせる（主にjupyter）](https://qiita.com/mmsstt/items/469a9346ce545709f53c)
 * [今どきのPythonのライブラリ自作からPyPIへの登録](https://qiita.com/futoase/items/fb7400bfa8c956336ff1)
 * [ローカルpypiリポジトリを作る](https://qiita.com/irotoris/items/13bce94bf9cc9ab36146)
+* [プライベートなPyPIを持つ](https://blog.varwww.com/201608-private-pypi.html)
