@@ -17,6 +17,8 @@
 * [【bat】Windowsのバッチファイル(*.bat)の書き方自分用まとめ](https://qiita.com/sksmnagisa/items/8c4c1788af44cc1dc63a)
 * [batファイルのカレントディレクトリの取得方法](https://qiita.com/shinichiro106/items/efb5052ef5fb8138c26d)
 * [.bat初心者・未経験者に贈るコマンド集](https://qiita.com/sawa_tsuka/items/4432263ef34418175fa9)
+* [batファイルでコマンドの実行結果を出力しないようにする方法](https://qiita.com/uhooi/items/b8b25761a5c4efe9025a)
+* rem --> @rem  (コマンド出力しなくなる)
 
 ## Xサーバ
 
