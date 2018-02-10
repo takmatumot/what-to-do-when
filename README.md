@@ -6,6 +6,7 @@ Trying to gather useful information at least for the author
 ## Link
 
 * [Ansible](doc/Ansible.md)
+* [C++](doc/C++.md)
 * [Django](doc/Django.md)
 * [Docker](doc/Docker.md)
 * [Document](doc/Document.md)
