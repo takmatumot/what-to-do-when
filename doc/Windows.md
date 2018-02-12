@@ -20,6 +20,10 @@
 * [batファイルでコマンドの実行結果を出力しないようにする方法](https://qiita.com/uhooi/items/b8b25761a5c4efe9025a)
 * rem --> @rem  (コマンド出力しなくなる)
 
+## PowerShell
+
+* [PowerShell 使い方メモ](https://qiita.com/opengl-8080/items/bb0f5e4f1c7ce045cc57)
+
 ## Xサーバ
 
 * [MobaXterm](https://mobaxterm.mobatek.net/)
