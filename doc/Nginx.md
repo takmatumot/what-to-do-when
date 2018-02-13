@@ -12,9 +12,9 @@
 
 
 
-## Nginx と Apacheの比較
+## Nginxと他の比較
 
 
 
 * [NginxとApache HTTP Serverの違いメモ](https://qiita.com/tomoyamachi/items/06b2eca14987a30b8fda )
-* ​
+* [Node vs Apache vs Lighttpd vs Nginx](https://www.linkedin.com/pulse/node-vs-apache-lighttpd-nginx-jeff-poyzner )
