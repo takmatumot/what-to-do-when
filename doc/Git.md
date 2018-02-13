@@ -98,5 +98,6 @@ git reset --hard origin/master
  * [git add -A と git add . と git add -u の違い](https://qiita.com/YusukeHigaki/items/06e38eec96387d408780)
  * [Git for Windowsでのシンボリックリンク ](https://opcdiary.net/?p=31100)
  * [反則技 git push -f](https://qiita.com/ppworks/items/94c0107d98e55f903ea9)
+ * [git addを取り消す](http://tweeeety.hateblo.jp/entry/2015/06/10/212631)
 
 
