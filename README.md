@@ -10,6 +10,7 @@ Trying to gather useful information at least for the author
 * [Django](doc/Django.md)
 * [Docker](doc/Docker.md)
 * [Document](doc/Document.md)
+* [Elasticsearch](doc/Elasticsearch.md)
 * [Git](doc/Git.md)
 * [GoogleHome](doc/GoogleHome.md)
 * [JavaScript](doc/JavaScript.md)
