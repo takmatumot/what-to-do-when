@@ -9,6 +9,7 @@
 * [本当に正しい .bashrc と .bash_profile の使ひ分け](https://qiita.com/magicant/items/d3bb7ea1192e63fba850)
 * [.bash_profileや.bashrcをフラグメントする(.bash.d)](https://qiita.com/NewGyu/items/e3a5b3e2224f96b68fcc)
 * [bash 実行スクリプトの絶対パスの取得](https://qiita.com/koara-local/items/2d67c0964188bba39e29)
+* Pattern substitution, [echo | sedなんていらなかったんだ！](https://qiita.com/r_plus/items/ac0093fd8c317ed96b4b)
 
 ##  ssh
 
