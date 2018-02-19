@@ -1,4 +1,7 @@
 
+
+[TOC]
+
 # Elasticsearch
 
 
@@ -180,8 +183,18 @@
   open http://loclahost:9100
   ```
 
+
+
+## Dockerでのインストール
+
+* Ref.
+
+  * [Install Elasticsearch with Docker](https://www.elastic.co/guide/en/elasticsearch/reference/6.2/docker.html)
+  * [Dockerを利用して Elasticsearch + Kibana の環境を作る](https://qiita.com/akym03/items/f981a35a95598d7ab97b)
+
   ​
 
-  
+  ## 運用
 
-  \
+* [ElasticSearchの運用とか (2)](http://t-cyrill.hatenablog.jp/entry/2014/04/19/161422)
+

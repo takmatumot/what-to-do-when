@@ -1,3 +1,4 @@
+[TOC]
 
 # Linux
 
@@ -54,3 +55,7 @@
 ##  自動起動
 
 * [【新旧対応】Linuxでの自動起動の設定方法を解説](https://eng-entrance.com/linux_startup#systemd)
+
+## yum
+
+* [【yum list】パッケージ一覧を表示・確認する](http://uxmilk.jp/9146)

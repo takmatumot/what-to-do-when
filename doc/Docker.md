@@ -8,3 +8,22 @@
 * [Docker ノウハウ集](https://qiita.com/hana_shin/items/392bd01be6aff9fc1dd4)
 
 
+
+
+## インストール
+
+* [CentOS7にDockerをインストールする](https://qiita.com/inakadegaebal/items/be9fecce813cebec5986)
+
+
+
+## CentOS7にDockerをインストール
+
+* 以下のコマンドで　docker関連がインストールされているか確認する。インストールされていれば削除する。
+
+  ```
+  $ yum list installed | grep docker
+  ```
+
+* aaa
+
+　
