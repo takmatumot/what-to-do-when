@@ -145,10 +145,43 @@
 
   ## kuromoji
 
-  * Ref.:  Japanese 
-    * [japanese (kuromoji) analysis plugin](https://www.elastic.co/guide/en/elasticsearch/plugins/6.2/analysis-kuromoji.html)
-      * ​
+  * Ref. 
+
+      * [japanese (kuromoji) analysis plugin](https://www.elastic.co/guide/en/elasticsearch/plugins/6.2/analysis-kuromoji.html)
+
+    * [Elasticsearch に kuromoji を入れて日本語全文検索をする](https://qiita.com/mserizawa/items/8335d39cacb87f12b678)
+
+      ```
+      /usr/shared/elasticsearch/bin/elasticsearch-plugin install analysis-kuromoji
+
+      ```
+
+    * elasticsearchを再起動し、pluginがインストールされたかどうかを確認する
+
+      ```
+      $ sudo systemctl restart elasticsearch
+      $ curl -XGET  http://localhost:9200/_nodes/plugins
+      ```
+
+## head
+
+* Ref:
+
+  * [elasticsearch-head](https://github.com/mobz/elasticsearch-head)
+
+* インストール
+
+  ```
+  $ sudo yum install nodejs
+  $ git clone git://github.com/mobz/elasticsearch-head.git
+  $ cd elasticsearch-head
+  $ npm install
+  $ npm run start
+  open http://loclahost:9100
+  ```
 
   ​
 
-  ​
+  
+
+  \
