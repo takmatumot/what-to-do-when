@@ -48,3 +48,9 @@
 * [CentOS7のネットワーク設定(nmtui)](www.unknownengineer.net/entry/2016/06/21/123537)
 * [CentOS7の標準ファイアウォール「firewalld」について](http://hikaku-server.com/linux/entry461.html)
 * [CentOS７ ファイアウォール停止方法](www.server-memo.net/centos-settings/centos7/firewalld-stop.html) 
+
+
+
+##  自動起動
+
+* [【新旧対応】Linuxでの自動起動の設定方法を解説](https://eng-entrance.com/linux_startup#systemd)
