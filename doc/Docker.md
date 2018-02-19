@@ -24,6 +24,77 @@
   $ yum list installed | grep docker
   ```
 
-* aaa
+* 必要なパッケージをインストール
+
+  ```
+  $ sudo yum install -y yum-utils device-mapper-persistent-data lvm2
+
+  ```
+
+* レポジトリ追加
+
+  ```
+  $ sudo yum-config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo
+  ```
+
+* yum のパッケージインデックスを更新(DockerのINSTALLやUPGRADEの前に一回実行することが推奨されている)
+
+  ```
+  $ sudo yum makecache fast
+  ```
+
+* インストール可能バージョンを調べる。
+
+  ```
+  $ yum list docker-ce.x86_64 --showduplicates | sort -r
+  ```
+
+* インストールする
+
+  ```
+  バージョン指定
+  $ sudo yum install docker-ce-17.06.0.ce-1.el7.centos
+  最新バージョン
+  $ sudo yum install docker-ce
+
+  ```
+
+* 起動
+
+  ```
+  $ sudo systemctl start docker
+  ```
+
+* 確認
+
+  ```
+  $ sudo docker run hello-world
+  ```
+
+* いちいちsudoを書かなくてもようにする(セキュリティー面を考慮してやるかやらないかの方針決めが必要)
+
+  ```
+  dockerグループはすでにあるはずだけど念の為
+  $ sudo groupadd docker
+  現在のユーザーをdockerグループに入れる
+  $ sudo usermod -aG docker $USER
+  ```
+
+* 確認
+
+  ```
+  再ログイン後(仮想環境であれば、再起動が必要な場合もある)
+  $ docker run hello-world
+  ```
+
+* OS起動後にDockerを自動起動にする
+
+  ```
+  $ sudo systemctl enable docker
+  ```
+
+  ​
+
+  ​
 
 　
