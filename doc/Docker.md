@@ -144,5 +144,7 @@
 * [Dockerのパーミッションエラーを調べる](https://qiita.com/reflet/items/3516400c37c4f5b0cd6d)
 * [dockerのデータボリュームとそのバックアップ方法](https://qiita.com/74th/items/41393f506d223850f2c3)
 * [Docker+Convoyでバックアップ](https://qiita.com/kuri_hei/items/50c50b5430426f04cc25)
+* [Docker コンテナ内でのデータ管理](https://qiita.com/t-yotsu/items/82572b1749964671fb2f)
+  * バックアップ＆リストアの方法
 
 
