@@ -133,5 +133,7 @@
 * [Dockerイメージとコンテナの削除方法](https://qiita.com/tifa2chan/items/e9aa408244687a63a0ae)
 * [Docker・コンテナの確認と接続(ps, attach, execコマンド)](http://www.ajisaba.net/develop/docker/docker_attach.html)
 * [Docker Compose - docker-compose.yml リファレンス](https://qiita.com/zembutsu/items/9e9d80e05e36e882caaa)
+* [docker-compose.ymlの命令を理解して、よりDockerを有効活用したい！](http://aspec7.hateblo.jp/entry/2015/11/08/134228)
+* [docker, CMD とENTRYPOINT の違いを試してみた](https://qiita.com/hihihiroro/items/d7ceaadc9340a4dbeb8f)
 
 
