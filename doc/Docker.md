@@ -13,7 +13,13 @@
 ## インストール
 
 * [CentOS7にDockerをインストールする](https://qiita.com/inakadegaebal/items/be9fecce813cebec5986)
+* [Install Docker Compose](https://docs.docker.com/compose/install/)
+* [CentOS7.3にDocker Composeまでインストール](https://qiita.com/sawadashota/items/2bed41598d825d488701)
+* Ref.
+  * [Docker Compose](https://github.com/docker/compose)
 
+
+​
 
 
 ## CentOS7にDockerをインストール
@@ -93,12 +99,29 @@
   $ sudo systemctl enable docker
   ```
 
-  ​
 
-  ## CentOS7に docker compose
+## CentOS7に docker composeをインストール
 
-  * [Install Docker Compose](https://docs.docker.com/compose/install/)
-  * [CentOS7.3にDocker Composeまでインストール](https://qiita.com/sawadashota/items/2bed41598d825d488701)
+* 以下のコマンドを実行
 
-  ​
+  ```
+  sudo curl -L https://github.com/docker/compose/releases/download/1.19.0/docker-compose-`uname -s`-`uname -m` -o /usr/local/bin/docker-compose
+  ```
 
+* Apply executable permissions to the binary
+
+  ```
+  sudo chmod +x /usr/local/bin/docker-compose
+  ```
+
+* Test the installation
+
+  ```
+  $ docker-compose --version
+  docker-compose version 1.19.0, build 1719ceb
+  ```
+
+
+## Link
+
+* [docker-composeを使うと複数コンテナの管理が便利に](https://qiita.com/y_hokkey/items/d51e69c6ff4015e85fce)
