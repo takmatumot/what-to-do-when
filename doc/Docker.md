@@ -125,6 +125,7 @@
 ## 永続ストレージ
 
 * [Dockerで永続ストレージを実現する4つの方法](http://techtarget.itmedia.co.jp/tt/news/1612/16/news01.html)
+* [Docker でデータのポータビリティをあげ永続化しよう](https://qiita.com/mopemope/items/b05ff7f603a5ad74bf55)
 
 ## Link
 
