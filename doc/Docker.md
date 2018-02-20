@@ -122,11 +122,16 @@
   ```
 
 
+## 永続ストレージ
+
+* [Dockerで永続ストレージを実現する4つの方法](http://techtarget.itmedia.co.jp/tt/news/1612/16/news01.html)
+
 ## Link
 
 * [docker-composeを使うと複数コンテナの管理が便利に](https://qiita.com/y_hokkey/items/d51e69c6ff4015e85fce)
 * [Dockerコマンドメモ](https://qiita.com/curseoff/items/a9e64ad01d673abb6866)
 * [Dockerイメージとコンテナの削除方法](https://qiita.com/tifa2chan/items/e9aa408244687a63a0ae)
 * [Docker・コンテナの確認と接続(ps, attach, execコマンド)](http://www.ajisaba.net/develop/docker/docker_attach.html)
+* [Docker Compose - docker-compose.yml リファレンス](https://qiita.com/zembutsu/items/9e9d80e05e36e882caaa)
 
 
