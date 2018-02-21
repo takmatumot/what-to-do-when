@@ -132,9 +132,19 @@
 * [docker-composeを使うと複数コンテナの管理が便利に](https://qiita.com/y_hokkey/items/d51e69c6ff4015e85fce)
 * [Dockerコマンドメモ](https://qiita.com/curseoff/items/a9e64ad01d673abb6866)
 * [Dockerイメージとコンテナの削除方法](https://qiita.com/tifa2chan/items/e9aa408244687a63a0ae)
+* [docker, コンテナを一括削除](https://qiita.com/ozhaan/items/9e2090da22ffd6c7ad2a)
 * [Docker・コンテナの確認と接続(ps, attach, execコマンド)](http://www.ajisaba.net/develop/docker/docker_attach.html)
 * [Docker Compose - docker-compose.yml リファレンス](https://qiita.com/zembutsu/items/9e9d80e05e36e882caaa)
 * [docker-compose.ymlの命令を理解して、よりDockerを有効活用したい！](http://aspec7.hateblo.jp/entry/2015/11/08/134228)
 * [docker, CMD とENTRYPOINT の違いを試してみた](https://qiita.com/hihihiroro/items/d7ceaadc9340a4dbeb8f)
+* [dockerfileでDockerイメージを作成する](https://qiita.com/umchifre/items/0447c58173b051510f78)
+* [Docker volumeの削除](https://qiita.com/Ikumi/items/b319a12d7e2c9f7b904d)
+* [DockerのVolumeのアクセス権限の問題について](https://qiita.com/mrk_21/items/137b0c39e09c3ed6c95a)
+* [Docker: マウントしたVolumeにApacheが書き込めないとき](https://qiita.com/suin/items/3a0361102af83d0b69aa)
+* [Dockerのパーミッションエラーを調べる](https://qiita.com/reflet/items/3516400c37c4f5b0cd6d)
+* [dockerのデータボリュームとそのバックアップ方法](https://qiita.com/74th/items/41393f506d223850f2c3)
+* [Docker+Convoyでバックアップ](https://qiita.com/kuri_hei/items/50c50b5430426f04cc25)
+* [Docker コンテナ内でのデータ管理](https://qiita.com/t-yotsu/items/82572b1749964671fb2f)
+  * バックアップ＆リストアの方法
 
 
