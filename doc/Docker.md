@@ -149,5 +149,6 @@
   * バックアップ＆リストアの方法
 * [CentOS 7のDockerコンテナ内でsystemdを使ってサービスを起動する](https://qiita.com/yunano/items/9637ee21a71eba197345)
 * [Docker+systemd+複数サービス起動](https://qiita.com/kuri_hei/items/bccd699af8c77a9463c4)
+* [Docker Compose で起動するコンテナ名を変更する](https://qiita.com/ymm1x/items/56961f8e2ffb48b8dbe3)
 
 
