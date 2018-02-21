@@ -27,5 +27,6 @@
 
 * [Djangoの環境をDocker化する（Docker + Django + Gunicorn + nginx）その１](https://qiita.com/amazipangu/items/bce228f506f894cd825d)
 * [Djangoの環境をDocker化する（Docker + Django + Gunicorn + nginx）その2](https://qiita.com/amazipangu/items/1d17e4fb99869d82f438#_reference-ed19aaf6f0da9b914b05)
-
 * [Docker Composeを使った、Nginx+uWSGI+Djangoのデプロイ](http://pythonskywalker.hatenablog.com/entry/2016/11/17/152830)
+* [DockerでPython+uWSGI+Nginxの環境を作成](https://qiita.com/hiroykam/items/748c3fab31c616994db9)
+
