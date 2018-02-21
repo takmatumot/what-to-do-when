@@ -192,10 +192,14 @@
   * [Install Elasticsearch with Docker](https://www.elastic.co/guide/en/elasticsearch/reference/6.2/docker.html)
   * [Dockerを利用して Elasticsearch + Kibana の環境を作る](https://qiita.com/akym03/items/f981a35a95598d7ab97b)
   * [Dockerを利用して Elasticsearch + Kibana の環境で kuromoji + Neologd を試す](https://qiita.com/akym03/items/e99fafe36eb758cefd89)
+  * a
 
   ## 運用
 
 * [ElasticSearchの運用とか (2)](http://t-cyrill.hatenablog.jp/entry/2014/04/19/161422)
 
 * [Elasticsearch導入前に気を付けておきたいこと！](https://qiita.com/uzresk/items/e0b10c14875b79c450f2)
+
+* [公式コンテナイメージを使用した際のX-Packの無効化について](https://discuss.elastic.co/t/x-pack/86805)
+
 
