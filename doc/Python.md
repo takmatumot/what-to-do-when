@@ -91,6 +91,10 @@ Python.NoConFile="C:\WINDOWS\pyw.exe" "%L" %*
 
 
 
+## pip (オンプレミス?)
+
+* [PyPi Cloud](https://github.com/stevearc/pypicloud )
+
 ## Link
 
 * [What is the correct way to document a **kwargs parameter?](https://stackoverflow.com/questions/1137161/what-is-the-correct-way-to-document-a-kwargs-parameter)
