@@ -152,5 +152,6 @@
 * [Docker Compose で起動するコンテナ名を変更する](https://qiita.com/ymm1x/items/56961f8e2ffb48b8dbe3)
 * [docker run --restart=alwaysがどれくらいrestartしてくれるか調べた](https://qiita.com/manabuishiirb/items/f7edf11572f9256018b2)
 * [Docker の基本学習 ~ コンテナ間のリンク](https://qiita.com/Arturias/items/75828479c1f9eb8d43fa)
+* [docker-compose.ymlの中で環境変数を展開する](https://qiita.com/friedaji/items/c1894821a2c49395cfd7)
 
 
