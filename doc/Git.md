@@ -43,6 +43,12 @@ git reset --hard origin/master
 * [GitLab on docker のバージョンアップをしてみた](https://qiita.com/DG0426/items/28b205901fca9eaff80a)
 
 
+## GitLab Docker
+
+* GitHub: [sameersbn](https://github.com/sameersbn)/**docker-gitlab**
+* Tips
+  * GitLabリポジトリのClone URL として表示されるホスト名を変更する。
+    * --> environment で GITLAB_HOST を設定する。
 
 ## Link
 
