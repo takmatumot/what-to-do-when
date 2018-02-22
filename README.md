@@ -7,6 +7,7 @@ Trying to gather useful information at least for the author
 
 * [Ansible](doc/Ansible.md)
 * [C++](doc/C++.md)
+* [Celery](doc/Celery.md)
 * [Django](doc/Django.md)
 * [Docker](doc/Docker.md)
 * [Document](doc/Document.md)
