@@ -94,6 +94,8 @@ Python.NoConFile="C:\WINDOWS\pyw.exe" "%L" %*
 ## pip (オンプレミス?)
 
 * [PyPi Cloud](https://github.com/stevearc/pypicloud )
+* [ローカルpypiリポジトリを作る](https://qiita.com/irotoris/items/13bce94bf9cc9ab36146)
+* [プライベートなPyPIを持つ](https://blog.varwww.com/201608-private-pypi.html)
 
 ## Link
 
@@ -108,5 +110,4 @@ Python.NoConFile="C:\WINDOWS\pyw.exe" "%L" %*
 * [Python3でUnicodeDecodeErrorに遭遇したときのTODOリスト](https://qiita.com/narupo/items/c6ea890c485fecee440a)
 * [pythonで print の出力結果を即時表示, 強制表示, フラッシュさせる（主にjupyter）](https://qiita.com/mmsstt/items/469a9346ce545709f53c)
 * [今どきのPythonのライブラリ自作からPyPIへの登録](https://qiita.com/futoase/items/fb7400bfa8c956336ff1)
-* [ローカルpypiリポジトリを作る](https://qiita.com/irotoris/items/13bce94bf9cc9ab36146)
-* [プライベートなPyPIを持つ](https://blog.varwww.com/201608-private-pypi.html)
+* [Pythonで環境変数を取得する、なければデフォルト値をセットする](https://qiita.com/manabuishiirb/items/5c85a8902472d2a664e8)
