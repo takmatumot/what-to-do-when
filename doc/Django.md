@@ -30,3 +30,9 @@
 * [Docker Composeを使った、Nginx+uWSGI+Djangoのデプロイ](http://pythonskywalker.hatenablog.com/entry/2016/11/17/152830)
 * [DockerでPython+uWSGI+Nginxの環境を作成](https://qiita.com/hiroykam/items/748c3fab31c616994db9)
 
+
+
+
+## Link
+
+* [Djangoでmanage.pyを使うときのメモ](https://qiita.com/sizumita/items/7fb3353b9d3f98a85cd6)
