@@ -154,5 +154,6 @@
 * [docker run --restart=alwaysがどれくらいrestartしてくれるか調べた](https://qiita.com/manabuishiirb/items/f7edf11572f9256018b2)
 * [Docker の基本学習 ~ コンテナ間のリンク](https://qiita.com/Arturias/items/75828479c1f9eb8d43fa)
 * [docker-compose.ymlの中で環境変数を展開する](https://qiita.com/friedaji/items/c1894821a2c49395cfd7)
+* [docker-composeで環境変数を使う](http://blog.brains-tech.co.jp/entry/2017/12/01/170600)
 
 
