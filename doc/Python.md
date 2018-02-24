@@ -97,6 +97,10 @@ Python.NoConFile="C:\WINDOWS\pyw.exe" "%L" %*
 * [ローカルpypiリポジトリを作る](https://qiita.com/irotoris/items/13bce94bf9cc9ab36146)
 * [プライベートなPyPIを持つ](https://blog.varwww.com/201608-private-pypi.html)
 
+##  MariaDB
+
+* [MariaDBを使用していて「pip install mysqlclient」でエラーが発生した](https://exiz.org/20171211141362)
+
 ## Link
 
 * [What is the correct way to document a **kwargs parameter?](https://stackoverflow.com/questions/1137161/what-is-the-correct-way-to-document-a-kwargs-parameter)

@@ -61,3 +61,4 @@
 ## yum
 
 * [【yum list】パッケージ一覧を表示・確認する](http://uxmilk.jp/9146)
+
