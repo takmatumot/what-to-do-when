@@ -56,6 +56,7 @@ conda のコマンド
 
 * [condaによるポータブルなPython環境構築のすすめ](https://qiita.com/yubessy/items/2dd43551aa8308dc7eca)
 * [anacondaパッケージ検索](https://anaconda.org/anaconda/repo)
+* [Pythonメモ-44 (conda に conda-forge チャネルを追加) (conda config, channel, 追加パッケージ)](http://devlights.hatenablog.com/entry/2017/12/09/183715)
 
 ## Executing scripts
 
