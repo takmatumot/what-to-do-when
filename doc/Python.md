@@ -41,6 +41,7 @@ conda のコマンド
 > conda info -e
 # condaの仮想環境作成
 > conda create -n <myenv> python=3.6
+> conda env create --file <xxx.yml> python=3.6
 # 仮想環境に入る
 > activate <myenv>
 # 仮想環境から抜ける
@@ -54,6 +55,7 @@ conda のコマンド
 
 
 * [condaによるポータブルなPython環境構築のすすめ](https://qiita.com/yubessy/items/2dd43551aa8308dc7eca)
+* [anacondaパッケージ検索](https://anaconda.org/anaconda/repo)
 
 ## Executing scripts
 
