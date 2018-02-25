@@ -130,6 +130,7 @@
 
 * [Dockerのネットワークの基礎](https://deeeet.com/writing/2014/05/11/docker-network/)
 * [Docker container間の連携について](https://qiita.com/taka4sato/items/b1bf33941a1ec8b69fd2)
+* [docker-compose で別の docker-compose.yml で作ったコンテナとリンクする (ネットワークを繋げる)](https://qiita.com/reneice/items/20e981062b093264cd0a)
 
 ## Link
 
