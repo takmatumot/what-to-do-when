@@ -6,7 +6,7 @@
 ## 基本事項
 
 * [Docker & Docker-Composeの基本的な使い方](https://qiita.com/koka/items/3d3d4ee5680f92a0ad89)
-* [How to list all tags of a docker image](www.googlinux.com/list-all-tags-of-docker-image/)
+* [DockerHubのイメージのタグ一覧をコマンドで取得する](www.mazn.net/blog/2015/12/26/1548.html)
 
 
 
