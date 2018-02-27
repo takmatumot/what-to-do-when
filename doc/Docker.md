@@ -168,5 +168,6 @@
 * [docker-composeで環境変数を使う](http://blog.brains-tech.co.jp/entry/2017/12/01/170600)
 * [Docker for Windowsで快適な環境を得るまでの そこそこ長い闘い](https://qiita.com/YukiMiyatake/items/73c7d6c4f2c9739ebe60)
 * [Dockerコンテナの分割は開発時はプロセス毎にしたほうがいい](https://qiita.com/kotamat/items/1f3f12a1c78612065e47)
+* [今さら人に聞けない Kubernetes とは？](https://qiita.com/MahoTakara/items/85096f8b2632c802ab22)
 
 
