@@ -194,12 +194,22 @@
   * [Dockerを利用して Elasticsearch + Kibana の環境で kuromoji + Neologd を試す](https://qiita.com/akym03/items/e99fafe36eb758cefd89)
   *  [公式コンテナイメージを使用した際のX-Packの無効化について](https://discuss.elastic.co/t/x-pack/86805)
 
-  ## 運用
+## 基本情報
+
+* [Elasticsearch index,typeについて](https://qiita.com/ystkr/items/3ade38d55ebaabdc2267)
+
+
+
+## 運用
 
 * [ElasticSearchの運用とか (2)](http://t-cyrill.hatenablog.jp/entry/2014/04/19/161422)
 
 * [Elasticsearch導入前に気を付けておきたいこと！](https://qiita.com/uzresk/items/e0b10c14875b79c450f2)
 
 * [公式コンテナイメージを使用した際のX-Packの無効化について](https://discuss.elastic.co/t/x-pack/86805)
+
+
+
+
 
 
