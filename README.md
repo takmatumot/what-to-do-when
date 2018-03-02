@@ -23,6 +23,7 @@ Trying to gather useful information at least for the author
 * [Nginx](doc/Nginx.md)
 * [Python](doc/Python.md)
 * [Slack](doc/Slack.md)
+* [system-nspawn](doc/system-nspawn.md)
 * [WebAPI](doc//WebAPI.md)
 * [Windows](doc/Windows.md)
 * [タスク管理](doc/タスク管理.md)
