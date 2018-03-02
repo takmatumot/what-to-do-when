@@ -19,6 +19,7 @@ Trying to gather useful information at least for the author
 * [JSON](doc/JSON.md)
 * [Linux](doc/Linux.md)
 * [LXD](doc/LXD.md)
+* [Markdown](doc/Markdown.md)
 * [Nginx](doc/Nginx.md)
 * [Python](doc/Python.md)
 * [Slack](doc/Slack.md)
