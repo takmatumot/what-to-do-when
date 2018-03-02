@@ -122,6 +122,10 @@
   ```
 
 
+## 運用面
+
+* [Dockerの本番運用](https://postd.cc/docker-in-production-an-update/)
+
 ## 永続ストレージ
 
 * [Dockerで永続ストレージを実現する4つの方法](http://techtarget.itmedia.co.jp/tt/news/1612/16/news01.html)
