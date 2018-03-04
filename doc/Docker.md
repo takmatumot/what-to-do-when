@@ -126,6 +126,7 @@
 
 * [Dockerの本番運用](https://postd.cc/docker-in-production-an-update/)
 * [Dockerの期待と現実～Docker都市伝説はなぜ生まれるのか～](https://www.slideshare.net/zembutsu/docker-expectations-and-reality)
+* [Systemdとdocker-composeでカジュアルにdockerを運用する](https://qiita.com/kanga/items/5f956bc47068c9774522)
 
 ## 永続ストレージ
 

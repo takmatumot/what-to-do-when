@@ -12,6 +12,8 @@
 * [systemd-nspawnとmachinectlコマンドまとめ](https://techracho.bpsinc.jp/yamasita-taisuke/2017_07_26/43718)
 * [超シンプルなコンテナ管理systemd-nspawnを使ってみる](https://techracho.bpsinc.jp/yamasita-taisuke/2017_07_13/43121)
 * [A systemd-nspawn connection driver for Ansible](http://blog.oddbit.com/2016/02/08/a-systemd-nspawn-connection-driver-for-a/)
+* [第491回　いまから「あえて」systemdのコンテナ機能を使ってみる](http://gihyo.jp/admin/serial/01/ubuntu-recipe/0491)
+* [Dockerじゃないsystemd-nspawn＋machinectlが非常に良い](http://kenokabe-techwriting.blogspot.jp/2016/02/dockersystemd-nspawnmachinectl.html)
 
 
 
