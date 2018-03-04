@@ -20,5 +20,6 @@
 ### Dockerとの連携
 
 * [Docker コンテナを systemd-nspawn で動かす (作業メモ)](https://eagletmt.hateblo.jp/entry/2016/03/07/031050)
+* [docker イメージをsystemd-nspawnへ移行](https://qiita.com/yaasita/items/c491a0a70ce17de6c65f)
 
 
