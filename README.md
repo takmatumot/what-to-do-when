@@ -5,33 +5,7 @@ Trying to gather useful information at least for the author
 
 ## Link
 
-* [Ansible](doc/Ansible.md)
-* [C++](doc/C++.md)
-* [Celery](doc/Celery.md)
-* [Django](doc/Django.md)
-* [Docker](doc/Docker.md)
-* [Document](doc/Document.md)
-* [Elasticsearch](doc/Elasticsearch.md)
-* [Git](doc/Git.md)
-* [GoogleHome](doc/GoogleHome.md)
-* [Go言語](doc/Go言語.md)
-* [JavaScript](doc/JavaScript.md)
-* [JSON](doc/JSON.md)
-* [Linux](doc/Linux.md)
-* [LXD](doc/LXD.md)
-* [Markdown](doc/Markdown.md)
-* [Nginx](doc/Nginx.md)
-* [Python](doc/Python.md)
-* [Slack](doc/Slack.md)
-* [system-nspawn](doc/system-nspawn.md)
-* [WebAPI](doc//WebAPI.md)
-* [Windows](doc/Windows.md)
-* [タスク管理](doc/タスク管理.md)
-* [フィル転送](ファイル転送.md)
-* [リモートデスクトップ](doc/リモートデスクトップ.md)
-* [仮想環境](doc/仮想環境.md)
-* [機械学習](doc/機械学習.md)
-* [認証](doc/認証.md)
+* [doc](doc/)
 
 
 ## リバースプロキシ
