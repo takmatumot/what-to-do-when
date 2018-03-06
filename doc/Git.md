@@ -24,6 +24,11 @@
       * [何故 git rebase は駄目で git pull –rebase はいいのか](https://www.lancard.com/blog/2016/11/07/git-rebase-and-pull-rebase/)
       * [GitHubを使うなら最低限知っておきたい、プルリクエストの送り方とレビュー、マージの基本](http://www.atmarkit.co.jp/ait/articles/1702/27/news022.html)
 
+## 権限管理
+
+* [GitLabのユーザ権限](https://qiita.com/mats116/items/f11e2e25731c325eeda8)
+* [GitLab運用方法と設定手順について](https://qiita.com/mikoski01/items/7a7795a8a1e98d9ba6d9)
+
 ## How to
 
 ```
