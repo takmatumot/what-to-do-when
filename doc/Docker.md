@@ -122,6 +122,10 @@
   ```
 
 
+## CentOS6
+
+* [CentOS6にdockerを構築する手順](https://qiita.com/is_mgmt_dept/items/f4a7c64d72c2cba440c2)
+
 ## 運用面
 
 * [Dockerの本番運用](https://postd.cc/docker-in-production-an-update/)
