@@ -62,3 +62,8 @@
 
 * [【yum list】パッケージ一覧を表示・確認する](http://uxmilk.jp/9146)
 
+
+## Firefox
+
+* [Firefox tab crashes at startup](https://support.mozilla.org/ja/questions/1167673)
+
