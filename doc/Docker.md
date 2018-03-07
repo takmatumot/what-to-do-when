@@ -132,6 +132,11 @@
 * [Dockerの期待と現実～Docker都市伝説はなぜ生まれるのか～](https://www.slideshare.net/zembutsu/docker-expectations-and-reality)
 * [Systemdとdocker-composeでカジュアルにdockerを運用する](https://qiita.com/kanga/items/5f956bc47068c9774522)
 
+## 再起動の自動処理
+
+* [ホストを再起動した時などにDockerコンテナを自動的に再起動できるようにする](https://unskilled.site/ホストを再起動した時などにdockerコンテナを自動的/) 
+* [Docker, 起動中のコンテナに --restart=always オプションを後から適用する](https://qiita.com/suzuki86/items/3b6d5b3a6e83a82c4f28) 
+
 ## 永続ストレージ
 
 * [Dockerで永続ストレージを実現する4つの方法](http://techtarget.itmedia.co.jp/tt/news/1612/16/news01.html)
