@@ -118,3 +118,4 @@ Python.NoConFile="C:\WINDOWS\pyw.exe" "%L" %*
 * [pythonで print の出力結果を即時表示, 強制表示, フラッシュさせる（主にjupyter）](https://qiita.com/mmsstt/items/469a9346ce545709f53c)
 * [今どきのPythonのライブラリ自作からPyPIへの登録](https://qiita.com/futoase/items/fb7400bfa8c956336ff1)
 * [Pythonで環境変数を取得する、なければデフォルト値をセットする](https://qiita.com/manabuishiirb/items/5c85a8902472d2a664e8)
+* [Python、shutilでファイル、ディレクトリ操作](https://torina.top/detail/268/)
