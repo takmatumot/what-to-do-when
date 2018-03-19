@@ -35,6 +35,8 @@
 * [CentOSに日本語のmanをインストールする方法](http://kaworu.jpn.org/kaworu/2007-11-24-3.php)
 * [Docker：Centos7公式コンテナにmanを入れてもマニュアルが出てこないときのインストール法](http://okisanjp.hatenablog.jp/entry/2017/01/06/214353)
 * [Address already in use の対処法](https://qiita.com/Arashi/items/8b8d9d2f1f040b2aecf1)
+* [CentOS7最小限のインストールからのGnomeデスクトップ環境構築](http://zero-config.com/centos/gnome-0001.html)
+* [CentOS7ネットワーク設定](https://www.server-world.info/query?os=CentOS_7&p=initial_conf&f=3)
 
 
 ## gnome-terminal
