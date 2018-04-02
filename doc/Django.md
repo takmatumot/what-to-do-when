@@ -36,6 +36,7 @@
 ## ログ関係
 
 * [djangoのloggerの(最低限の)使い方](https://qiita.com/sakamossan/items/a98b949738028ad39a6b)
+* [Djangoでログ/ロガーの設定(logging)](http://wannabe-jellyfish.hatenablog.com/entry/2017/03/19/234309)
 
 
 
