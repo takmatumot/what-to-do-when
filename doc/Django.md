@@ -43,3 +43,4 @@
 ## Link
 
 * [Djangoでmanage.pyを使うときのメモ](https://qiita.com/sizumita/items/7fb3353b9d3f98a85cd6)
+* [How do I get user IP address in django?](https://stackoverflow.com/questions/4581789/how-do-i-get-user-ip-address-in-django)
