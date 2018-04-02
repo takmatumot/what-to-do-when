@@ -33,6 +33,12 @@
 
 
 
+## ログ関係
+
+* [djangoのloggerの(最低限の)使い方](https://qiita.com/sakamossan/items/a98b949738028ad39a6b)
+
+
+
 ## Link
 
 * [Djangoでmanage.pyを使うときのメモ](https://qiita.com/sizumita/items/7fb3353b9d3f98a85cd6)
