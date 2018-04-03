@@ -137,6 +137,10 @@
 * [ホストを再起動した時などにDockerコンテナを自動的に再起動できるようにする](https://unskilled.site/ホストを再起動した時などにdockerコンテナを自動的/) 
 * [Docker, 起動中のコンテナに --restart=always オプションを後から適用する](https://qiita.com/suzuki86/items/3b6d5b3a6e83a82c4f28) 
 
+## バックアップ
+
+* [Dockerのシステム移行手順（バックアップおよび復元方法）](https://qiita.com/mikoski01/items/7d71ef7d167a6b78219a)
+
 ## 永続ストレージ
 
 * [Dockerで永続ストレージを実現する4つの方法](http://techtarget.itmedia.co.jp/tt/news/1612/16/news01.html)
