@@ -140,6 +140,7 @@
 ## バックアップ
 
 * [Dockerのシステム移行手順（バックアップおよび復元方法）](https://qiita.com/mikoski01/items/7d71ef7d167a6b78219a)
+* [Dockerのデータボリュームをバックアップ・リストア](https://www.lancard.com/blog/2016/09/06/dockerのデータボリュームをバックアップ・リストア/)
 
 ## 永続ストレージ
 

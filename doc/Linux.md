@@ -49,10 +49,18 @@
 ## CentOS
 
 * [CentOS 7 の Hostname を変更する](https://qiita.com/n-oshiro/items/d18ab37bce2b25b2d5b0) 
+
 * [CentOS7のネットワーク設定(nmtui)](www.unknownengineer.net/entry/2016/06/21/123537)
+
 * [CentOS7の標準ファイアウォール「firewalld」について](http://hikaku-server.com/linux/entry461.html)
+
 * [CentOS７ ファイアウォール停止方法](http://www.server-memo.net/centos-settings/centos7/firewalld-stop.html)
+
 * [Centos7 でポートを開放する方法：コマンドとファイル書き込み](https://omohikane.com/centos7_port_firewalld/) 
+
+* [CentOS7のhttpd設定で詰まった点](https://qiita.com/sky_y/items/b92fa6ba57d926f25370)
+
+  --> httpsポートの開放の方法
 
 
 
