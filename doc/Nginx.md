@@ -12,6 +12,12 @@
 
 
 
+## リバースプロキシ設定
+
+* [Nginxによるリバースプロキシの設定方法](https://qiita.com/schwarz471/items/9b44adfbec006eab60b0)
+
+
+
 ## Nginxと他の比較
 
 
