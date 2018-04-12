@@ -62,6 +62,8 @@
 
   --> httpsポートの開放の方法
 
+* [CentOSでuserをsudo可能にする](https://qiita.com/Esfahan/items/a159753d156d23baf180)
+
 
 
 ##  自動起動
