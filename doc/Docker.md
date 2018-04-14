@@ -164,6 +164,11 @@
 * [Dockerfile ARG入門](https://qiita.com/nacika_ins/items/cf8ceb20711bd077f770)
 * [Docker コンテナの動作に必要な設定を起動時に渡す](http://blog.amedama.jp/entry/2018/01/30/230221)
 
+## サービス化
+
+* CentOS7の場合 
+* [docker-compose で作ったサービス用の /etc/init.d スクリプト](https://qiita.com/megmogmog1965/items/acbe83fd594e07fe7395#systemd-centos7)
+
 ## Link
 
 * [コンテナに入りたい？それ docker exec でできるよ](https://qiita.com/yosisa/items/a5670e4da3ff22e9411a)
