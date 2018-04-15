@@ -52,6 +52,10 @@
 
 * [CentOS7のネットワーク設定(nmtui)](www.unknownengineer.net/entry/2016/06/21/123537)
 
+* [nmcli をもちいたCentOS7ネットワーク設定](https://qiita.com/taro0219/items/8d3be39c5cb882d1ba5d)
+
+* [CentOS 7でのネットワーク設定・確認方法](mzgkworks.com/post/linux-centos7-network-setting/)
+
 * [CentOS7の標準ファイアウォール「firewalld」について](http://hikaku-server.com/linux/entry461.html)
 
 * [CentOS７ ファイアウォール停止方法](http://www.server-memo.net/centos-settings/centos7/firewalld-stop.html)
