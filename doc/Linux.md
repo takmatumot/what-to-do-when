@@ -62,6 +62,10 @@
 
 * [Centos7 でポートを開放する方法：コマンドとファイル書き込み](https://omohikane.com/centos7_port_firewalld/) 
 
+* [ 【CentOS7】firewallで特定のポートに特定のホストからのみアクセスさせる設定](http://kimuraysp.hatenablog.com/entry/2017/09/20/003112)
+
+*  ](http://kimuraysp.hatenablog.com/entry/2017/09/20/003112)
+
 * [CentOS7のhttpd設定で詰まった点](https://qiita.com/sky_y/items/b92fa6ba57d926f25370)
 
   --> httpsポートの開放の方法
