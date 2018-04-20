@@ -19,6 +19,10 @@
 * [OpenSSHの警告メッセージを出さないようにする方法](https://qiita.com/shotaTsuge/items/48bdaccdafa5475d9016)
 * [sshトンネル (京大マイコンクラブ)](https://www.kmc.gr.jp/advent-calendar/ssh/2013/12/09/tunnel2.html)
 
+## systemd
+
+* [Systemdを使ってさくっと自作コマンドをサービス化してみる](https://qiita.com/DQNEO/items/0b5d0bc5d3cf407cb7ff)
+
 ## LXD
 
 * [Ubuntu 17.10 で LXD を試してみる](https://blog.1q77.com/2017/11/lxd-on-ubuntu-17-10/)
