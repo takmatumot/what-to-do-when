@@ -17,6 +17,7 @@
 
 * [ssh-copy-idで公開鍵を渡す](https://qiita.com/kentarosasaki/items/aa319e735a0b9660f1f0)
 * [OpenSSHの警告メッセージを出さないようにする方法](https://qiita.com/shotaTsuge/items/48bdaccdafa5475d9016)
+* [sshトンネル (京大マイコンクラブ)](https://www.kmc.gr.jp/advent-calendar/ssh/2013/12/09/tunnel2.html)
 
 ## LXD
 
@@ -38,6 +39,7 @@
 * [CentOS7最小限のインストールからのGnomeデスクトップ環境構築](http://zero-config.com/centos/gnome-0001.html)
 * [CentOS7ネットワーク設定](https://www.server-world.info/query?os=CentOS_7&p=initial_conf&f=3)
 * [ポートが空いてるか調べる](https://www.softel.co.jp/blogs/linux/archives/53)
+* [SSH/SCP のログイン自動化に sshpass が便利すぎた](http://blog.amedama.jp/entry/2017/06/03/131852)
 
 
 ## gnome-terminal
