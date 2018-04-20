@@ -37,6 +37,7 @@
 * [Address already in use の対処法](https://qiita.com/Arashi/items/8b8d9d2f1f040b2aecf1)
 * [CentOS7最小限のインストールからのGnomeデスクトップ環境構築](http://zero-config.com/centos/gnome-0001.html)
 * [CentOS7ネットワーク設定](https://www.server-world.info/query?os=CentOS_7&p=initial_conf&f=3)
+* [ポートが空いてるか調べる](https://www.softel.co.jp/blogs/linux/archives/53)
 
 
 ## gnome-terminal
