@@ -18,6 +18,7 @@
 * [ssh-copy-idで公開鍵を渡す](https://qiita.com/kentarosasaki/items/aa319e735a0b9660f1f0)
 * [OpenSSHの警告メッセージを出さないようにする方法](https://qiita.com/shotaTsuge/items/48bdaccdafa5475d9016)
 * [sshトンネル (京大マイコンクラブ)](https://www.kmc.gr.jp/advent-calendar/ssh/2013/12/09/tunnel2.html)
+* [Reverse ssh tunnel を安定運用する](https://qiita.com/syoyo/items/d31e9db6851dfee3ef82) 
 
 ## systemd
 
