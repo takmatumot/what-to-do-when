@@ -45,6 +45,7 @@
 * [CentOS7ネットワーク設定](https://www.server-world.info/query?os=CentOS_7&p=initial_conf&f=3)
 * [ポートが空いてるか調べる](https://www.softel.co.jp/blogs/linux/archives/53)
 * [SSH/SCP のログイン自動化に sshpass が便利すぎた](http://blog.amedama.jp/entry/2017/06/03/131852)
+* [CentOS6で「visudo: コマンドが見つかりません」の対処法](http://dqn.sakusakutto.jp/2012/01/centos6visudo.html)
 
 
 ## gnome-terminal
