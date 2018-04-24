@@ -174,6 +174,15 @@
 * [dockerで、いい感じでMySQL環境を作る](https://qiita.com/akinoriikeda/items/db4291dc4db3aa7c4b55 )
 
 
+## Nginx
+
+* [DockerfileでNginxの起動とログのローテーションまで](https://qiita.com/k7tak29/items/993ba3af8b0ac62a02c5)
+* [Docker 版 Nginx で timezone 指定にハマらない簡単な方法](http://munepom.hatenablog.com/entry/2017/03/13/225431)
+
+
+## 日本時間設定など
+
+* [【Docker】開発時に使ってるコンテナのDockerfileまわり](https://qiita.com/xecus/items/02c65379c5b2c541d3bc)
 
 ## Link
 
