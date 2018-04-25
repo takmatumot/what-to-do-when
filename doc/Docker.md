@@ -166,8 +166,8 @@
 
 ## サービス化
 
-* CentOS7の場合 
 * [docker-compose で作ったサービス用の /etc/init.d スクリプト](https://qiita.com/megmogmog1965/items/acbe83fd594e07fe7395#systemd-centos7)
+* [dockerのコンテナの自動起動をsystemdにて行う際の注意点について](www.memotansu.jp/2016/10/docker/563/)
 
 ## MySQL
 
