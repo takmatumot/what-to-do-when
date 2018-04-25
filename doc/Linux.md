@@ -96,3 +96,8 @@
 
 * [Firefox tab crashes at startup](https://support.mozilla.org/ja/questions/1167673)
 
+
+## ntp
+
+* [CentOSにntpサーバを入れて、日本標準時刻に自動的に合わせるためのメモ](https://qiita.com/tsu_nera/items/9be676b04b190e45b281)
+* ​
