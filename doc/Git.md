@@ -84,6 +84,7 @@ git reset --hard origin/master
   * [LearnGitBranching](k.swd.cc/learnGitBranching-ja/)
   * [[日本語訳]A successful Git branching model](https://qiita.com/homhom44/items/9f13c646fa2619ae63d0)
 * Git submodule
+  * [Git submoduleの押さえておきたい理解ポイントのまとめ](https://qiita.com/kinpira/items/3309eb2e5a9a422199e9)
   * [Git submoduleの基礎](https://qiita.com/sotarok/items/0d525e568a6088f6f6bb)
   * [Git submoduleの押さえておきたい理解ポイントのまとめ](https://qiita.com/kinpira/items/3309eb2e5a9a422199e9)
 * よく使う？項目
@@ -91,6 +92,9 @@ git reset --hard origin/master
     * [反則技 git push -f](https://qiita.com/ppworks/items/94c0107d98e55f903ea9)
     * [git addを取り消す](http://tweeeety.hateblo.jp/entry/2015/06/10/212631)
     * [gitでリモートのブランチにローカルを強制一致させたい時](https://qiita.com/ms2sato/items/72b48c1b1923beb1e186)
+* stash
+    * [git stash. コミットはせずに変更を退避したいとき](https://qiita.com/chihiro/items/f373873d5c2dfbd03250)
+    * [コミット前の内容を一時的に避けておく「git stash」の使い方](https://www.granfairs.com/blog/staff/git-stash)
 * その他
     * [わかりやすい README 駆動開発](https://qiita.com/b4b4r07/items/c80d53db9a0fd59086ec)
     * [空のディレクトリを維持するための、 .gitkeep と .gitignore の使い分け](https://qiita.com/ndxbn/items/f124d2b183b60cb074e2)
