@@ -31,8 +31,13 @@
 
 ## Submodule
 
-*  [git submodule は癖がすごいとの噂だったが素直につきあっていけそうという話](https://www.d-wood.com/blog/2014/05/22_6257.html)
+* [git submodule は癖がすごいとの噂だったが素直につきあっていけそうという話](https://www.d-wood.com/blog/2014/05/22_6257.html)
+
 * [Git Submoduleについてまとめてみる](https://qiita.com/BlueSilverCat/items/19bb9b814572cd35b2ae)
+
+*  [gitでクローンと同時にサブモジュールを初期化、アップデートする](https://blog.isao.co.jp/git%E3%81%A7%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%B3%E3%81%A8%E5%90%8C%E6%99%82%E3%81%AB%E3%82%B5%E3%83%96%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E3%82%92%E5%88%9D%E6%9C%9F%E5%8C%96%E3%80%81/)
+
+   ​
 
 ## How to
 
