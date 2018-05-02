@@ -29,6 +29,11 @@
 * [GitLabのユーザ権限](https://qiita.com/mats116/items/f11e2e25731c325eeda8)
 * [GitLab運用方法と設定手順について](https://qiita.com/mikoski01/items/7a7795a8a1e98d9ba6d9)
 
+## Submodule
+
+*  [git submodule は癖がすごいとの噂だったが素直につきあっていけそうという話](https://www.d-wood.com/blog/2014/05/22_6257.html)
+* [Git Submoduleについてまとめてみる](https://qiita.com/BlueSilverCat/items/19bb9b814572cd35b2ae)
+
 ## How to
 
 ```
