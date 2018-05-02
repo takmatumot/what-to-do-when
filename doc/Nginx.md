@@ -12,6 +12,12 @@
 
 
 
+## 　リダイレクト
+
+* [nginx で http でのアクセスを https にリダイレクト](https://qiita.com/kga/items/e30d668ec1ac5e30025b)
+
+  ​
+
 ## リバースプロキシ設定
 
 * [Nginxによるリバースプロキシの設定方法](https://qiita.com/schwarz471/items/9b44adfbec006eab60b0)
