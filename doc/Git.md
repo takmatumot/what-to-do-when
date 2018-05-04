@@ -35,6 +35,7 @@
 *  [Git Submoduleについてまとめてみる](https://qiita.com/BlueSilverCat/items/19bb9b814572cd35b2ae)
 *  [git submoduleを今風な感じで削除する](https://qiita.com/u1aryz/items/8d1923da79158439eeaa)
 *  [git submodulesで間違えて追加したときの削除手順](https://qiita.com/knsh14/items/941f2ec2ec76ef1d1940)
+*  [git submoduleについてのメモ 追加/削除/更新等](https://rcmdnk.com/blog/2013/10/18/computer-git/)
 
 ## How to
 
