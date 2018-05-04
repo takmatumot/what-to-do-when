@@ -34,6 +34,7 @@
 *  [git submodule は癖がすごいとの噂だったが素直につきあっていけそうという話](https://www.d-wood.com/blog/2014/05/22_6257.html)
 *  [Git Submoduleについてまとめてみる](https://qiita.com/BlueSilverCat/items/19bb9b814572cd35b2ae)
 *  [git submoduleを今風な感じで削除する](https://qiita.com/u1aryz/items/8d1923da79158439eeaa)
+*  [git submodulesで間違えて追加したときの削除手順](https://qiita.com/knsh14/items/941f2ec2ec76ef1d1940)
 
 ## How to
 
