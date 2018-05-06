@@ -104,7 +104,8 @@ git reset --hard origin/master
     * [git stash. コミットはせずに変更を退避したいとき](https://qiita.com/chihiro/items/f373873d5c2dfbd03250)
     * [コミット前の内容を一時的に避けておく「git stash」の使い方](https://www.granfairs.com/blog/staff/git-stash)
 * 履歴削除
-    * [Gitのコミット履歴を全消去して初期化する方法](sagelog.com/2017/10/12/post-485/)
+    * [Gitのコミット履歴を全消去して初期化する方法](http://sagelog.com/2017/10/12/post-485/)
+    * [GitLab Protected Branches](https://docs.gitlab.com/ce/user/project/protected_branches.html)
 * その他
     * [わかりやすい README 駆動開発](https://qiita.com/b4b4r07/items/c80d53db9a0fd59086ec)
     * [空のディレクトリを維持するための、 .gitkeep と .gitignore の使い分け](https://qiita.com/ndxbn/items/f124d2b183b60cb074e2)
