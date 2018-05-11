@@ -29,14 +29,15 @@
 * [GitLabのユーザ権限](https://qiita.com/mats116/items/f11e2e25731c325eeda8)
 * [GitLab運用方法と設定手順について](https://qiita.com/mikoski01/items/7a7795a8a1e98d9ba6d9)
 
-## Submodule
-
 * [git submodule は癖がすごいとの噂だったが素直につきあっていけそうという話](https://www.d-wood.com/blog/2014/05/22_6257.html)
 
+## Submodule
+
 * [Git Submoduleについてまとめてみる](https://qiita.com/BlueSilverCat/items/19bb9b814572cd35b2ae)
-
+*  [git submoduleを今風な感じで削除する](https://qiita.com/u1aryz/items/8d1923da79158439eeaa)
+*  [git submodulesで間違えて追加したときの削除手順](https://qiita.com/knsh14/items/941f2ec2ec76ef1d1940)
+*  [git submoduleについてのメモ 追加/削除/更新等](https://rcmdnk.com/blog/2013/10/18/computer-git/)
 * [gitでクローンと同時にサブモジュールを初期化、アップデートする](https://blog.isao.co.jp/git%E3%81%A7%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%B3%E3%81%A8%E5%90%8C%E6%99%82%E3%81%AB%E3%82%B5%E3%83%96%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E3%82%92%E5%88%9D%E6%9C%9F%E5%8C%96%E3%80%81/)
-
 * [submodule の向き先 url を変更する](https://qiita.com/8mamo10/items/fd11d8c7a2d928b39173)
 
    ​
@@ -107,6 +108,9 @@ git reset --hard origin/master
 * stash
     * [git stash. コミットはせずに変更を退避したいとき](https://qiita.com/chihiro/items/f373873d5c2dfbd03250)
     * [コミット前の内容を一時的に避けておく「git stash」の使い方](https://www.granfairs.com/blog/staff/git-stash)
+* 履歴削除
+    * [Gitのコミット履歴を全消去して初期化する方法](http://sagelog.com/2017/10/12/post-485/)
+    * [GitLab Protected Branches](https://docs.gitlab.com/ce/user/project/protected_branches.html)
 * その他
     * [わかりやすい README 駆動開発](https://qiita.com/b4b4r07/items/c80d53db9a0fd59086ec)
     * [空のディレクトリを維持するための、 .gitkeep と .gitignore の使い分け](https://qiita.com/ndxbn/items/f124d2b183b60cb074e2)
