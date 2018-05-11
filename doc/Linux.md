@@ -24,6 +24,12 @@
 
 * [Systemdを使ってさくっと自作コマンドをサービス化してみる](https://qiita.com/DQNEO/items/0b5d0bc5d3cf407cb7ff)
 
+* [cron が入ってないのね Archさん](https://mtunn.wordpress.com/2014/12/19/cron-が入ってないのね-archさん/)
+
+* [cronの代わりにsystemdのtimerで定期実行を定義してみる](https://blog.monophile.net/posts/20180113_systemd_timer_cron.html)
+
+  ​
+
 ## LXD
 
 * [Ubuntu 17.10 で LXD を試してみる](https://blog.1q77.com/2017/11/lxd-on-ubuntu-17-10/)
