@@ -33,9 +33,23 @@
 
 ## remote変更
 
+
 * [gitのremote urlを変更する(レポジトリ移行時)](https://qiita.com/minoringo/items/917e325892733e0d606e)
 
 ## Submodule
+
+* submoduleも masterブランチを追う場合 (とってきたsubmoduleでも開発したい場合)
+
+```
+$ git submodule update --init
+$ git submodule foreach git checkout master
+```
+
+* すべて最新に更新
+
+```
+$ git submodule foreach git pull
+```
 
 * [Git Submoduleについてまとめてみる](https://qiita.com/BlueSilverCat/items/19bb9b814572cd35b2ae)
 *  [git submoduleを今風な感じで削除する](https://qiita.com/u1aryz/items/8d1923da79158439eeaa)
