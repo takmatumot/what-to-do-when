@@ -21,6 +21,8 @@
 
 ## Grav
 
+* インストールの方法 (CentOS7)
+  * [PHP製CMS Gravのインストール](https://qiita.com/bezeklik/items/7593579462cb0557fd3d)
 * [Grav](https://getgrav.org/)
 * [Learn Grav](https://learn.getgrav.org/)
 * [Grav plugins](https://getgrav.org/downloads/plugins)
