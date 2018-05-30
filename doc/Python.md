@@ -100,6 +100,10 @@ Python.NoConFile="C:\WINDOWS\pyw.exe" "%L" %*
 * [ローカルpypiリポジトリを作る](https://qiita.com/irotoris/items/13bce94bf9cc9ab36146)
 * [プライベートなPyPIを持つ](https://blog.varwww.com/201608-private-pypi.html)
 
+##   エクセルファイル
+
+* [ PythonでExcelファイルを扱うライブラリの比較](https://note.nkmk.me/python-excel-library/)
+
 ##   ログ
 
 * [loggingモジュールでログを表示してみよう！](https://www.sejuku.net/blog/23149)
