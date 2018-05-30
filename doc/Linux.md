@@ -52,6 +52,7 @@
 * [ポートが空いてるか調べる](https://www.softel.co.jp/blogs/linux/archives/53)
 * [SSH/SCP のログイン自動化に sshpass が便利すぎた](http://blog.amedama.jp/entry/2017/06/03/131852)
 * [CentOS6で「visudo: コマンドが見つかりません」の対処法](http://dqn.sakusakutto.jp/2012/01/centos6visudo.html)
+* [【Linux CentOS 7（1511）64bit】LibreOffice5をRPMパッケージからインストールした](http://akira-arets.blogspot.com/2016/11/linux-centos7-installing-libreoffice5.html)
 
 
 ## gnome-terminal
