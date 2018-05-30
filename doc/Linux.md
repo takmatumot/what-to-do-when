@@ -79,13 +79,15 @@
 
 * [ 【CentOS7】firewallで特定のポートに特定のホストからのみアクセスさせる設定](http://kimuraysp.hatenablog.com/entry/2017/09/20/003112)
 
-*  ](http://kimuraysp.hatenablog.com/entry/2017/09/20/003112)
+* ](http://kimuraysp.hatenablog.com/entry/2017/09/20/003112)
 
 * [CentOS7のhttpd設定で詰まった点](https://qiita.com/sky_y/items/b92fa6ba57d926f25370)
 
   --> httpsポートの開放の方法
 
 * [CentOSでuserをsudo可能にする](https://qiita.com/Esfahan/items/a159753d156d23baf180)
+
+* [CentOS7にChromeをインストール](https://qiita.com/shadowhat/items/af6b973df43d75abfe8e)
 
 
 
