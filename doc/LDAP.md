@@ -11,3 +11,6 @@
   - [osixia/docker-phpLDAPadmin](https://github.com/osixia/docker-phpLDAPadmin)
 - 他
   - [CentOS7.0でOpenLDAP構築](https://qiita.com/kazukikudo/items/703d6e6664e13882fa0b )
+  - [RHEL7でOpenLDAP構築](https://qiita.com/koomaru/items/cfd2c7b66de740544d06)
+
+  
