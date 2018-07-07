@@ -13,4 +13,4 @@
   - [CentOS7.0でOpenLDAP構築](https://qiita.com/kazukikudo/items/703d6e6664e13882fa0b )
   - [RHEL7でOpenLDAP構築](https://qiita.com/koomaru/items/cfd2c7b66de740544d06)
 
-  
+- [OpenLDAPを利用したディレクトリサーバの構築(OLC対応版) ](https://alpha-netzilla.blogspot.com/2016/05/ldap.html)
