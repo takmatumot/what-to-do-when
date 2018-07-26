@@ -100,6 +100,9 @@
 
 * [【yum list】パッケージ一覧を表示・確認する](http://uxmilk.jp/9146)
 
+## Chrome
+
+* [CentOS7にChromeをインストール](https://qiita.com/shadowhat/items/af6b973df43d75abfe8e)
 
 ## Firefox
 
