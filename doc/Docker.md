@@ -34,7 +34,7 @@
 
   ```
   $ sudo yum install -y yum-utils device-mapper-persistent-data lvm2
-
+  
   ```
 
 * レポジトリ追加
@@ -62,7 +62,7 @@
   $ sudo yum install docker-ce-17.06.0.ce-1.el7.centos
   最新バージョン
   $ sudo yum install docker-ce
-
+  
   ```
 
 * 起動
@@ -125,6 +125,10 @@
 ## CentOS6
 
 * [CentOS6にdockerを構築する手順](https://qiita.com/is_mgmt_dept/items/f4a7c64d72c2cba440c2)
+
+##  /var/lib/docker
+
+* [Dockerの/var/lib/dockerを移動する](https://qiita.com/masato/items/e967e531e75101796c30)
 
 ## 運用面
 
