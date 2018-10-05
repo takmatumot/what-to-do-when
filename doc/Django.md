@@ -5,6 +5,9 @@
 * [Djangoアプリを配布する〜②Githubからpipできるようにする](https://torina.top/detail/375/)
 * [django-rest-frameworkチュートリアル和訳](http://sandmark.hateblo.jp/entry/2017/09/30/160945)
 
+## html
+
+* [[Djangoでhtmlファイルをレンダリングする](http://python.zombie-hunting-club.com/entry/2017/11/03/223926)
 
 
 
