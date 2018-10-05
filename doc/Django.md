@@ -7,6 +7,7 @@
 
 ## html
 
+* [テンプレートを使おう](https://eiry.bitbucket.io/tutorials/tutorial/templates.html)
 * [【Django入門】templateとHTMLを使ってWebページを表示しよう ](https://www.sejuku.net/blog/26407 )
 * [[Djangoでhtmlファイルをレンダリングする](http://python.zombie-hunting-club.com/entry/2017/11/03/223926)
 
