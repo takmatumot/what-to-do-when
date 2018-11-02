@@ -188,6 +188,15 @@
 
 * [【Docker】開発時に使ってるコンテナのDockerfileまわり](https://qiita.com/xecus/items/02c65379c5b2c541d3bc)
 
+
+
+## トラブル対応
+
+* [dockerの出すログファイルでディスクが100%になった](https://gomiba.co.in/blog/archives/1790)
+* [肥大化してしまったdockerコンテナのログを消し去る方法](https://qiita.com/Hi-king/items/fe5ac34170c7cdf12cc0)
+
+
+
 ## Link
 
 * [コンテナに入りたい？それ docker exec でできるよ](https://qiita.com/yosisa/items/a5670e4da3ff22e9411a)
