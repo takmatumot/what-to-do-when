@@ -74,9 +74,13 @@
 
 * [CentOS7の標準ファイアウォール「firewalld」について](http://hikaku-server.com/linux/entry461.html)
 
+* [CentOS7、ファイアウォールポート開放と閉じる方法](https://meideru.com/archives/1302#i-7)
+
 * [CentOS７ ファイアウォール停止方法](http://www.server-memo.net/centos-settings/centos7/firewalld-stop.html)
 
 * [Centos7 でポートを開放する方法：コマンドとファイル書き込み](https://omohikane.com/centos7_port_firewalld/) 
+
+* 
 
 * [ 【CentOS7】firewallで特定のポートに特定のホストからのみアクセスさせる設定](http://kimuraysp.hatenablog.com/entry/2017/09/20/003112)
 
