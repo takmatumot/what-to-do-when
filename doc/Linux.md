@@ -94,6 +94,8 @@
 
 * [CentOS7にChromeをインストール](https://qiita.com/shadowhat/items/af6b973df43d75abfe8e)
 
+* [CentOS7.5にLibreOfficeをyumでインストールする](https://blog.katsubemakito.net/centos/install_libreoffice_with_yum)
+
 
 
 ##  自動起動
