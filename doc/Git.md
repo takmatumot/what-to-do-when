@@ -130,6 +130,7 @@ git reset --hard origin/master
     * [Gitのコミット履歴を全消去して初期化する方法](http://sagelog.com/2017/10/12/post-485/)
     * [GitLab Protected Branches](https://docs.gitlab.com/ce/user/project/protected_branches.html)
 * その他
+    * [Windows版Gitで認証情報を消す方法]( https://cpoint-lab.co.jp/article/201804/windows%E7%89%88git%E3%81%A7%E8%AA%8D%E8%A8%BC%E6%83%85%E5%A0%B1%E3%82%92%E6%B6%88%E3%81%99%E6%96%B9%E6%B3%95/)
     * [わかりやすい README 駆動開発](https://qiita.com/b4b4r07/items/c80d53db9a0fd59086ec)
     * [空のディレクトリを維持するための、 .gitkeep と .gitignore の使い分け](https://qiita.com/ndxbn/items/f124d2b183b60cb074e2)
     * [複数Githubアカウントでssh接続を使い分ける手順](https://qiita.com/yampy/items/24638156abd383e08758)
